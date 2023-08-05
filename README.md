@@ -4,10 +4,14 @@
 
 一个为 Rime 打造的 Minecraft 拼音词典 (WIP)
 
-# 安装
+# 安装与使用
 
 ## Linux
 
-使用系统包管理器安装到 `/usr/share/rime-data`
+使用系统包管理器安装到 `/usr/share/rime-data`. 如果你不知道怎么做, 切勿乱丢词典文件.
 
-如果你不知道怎么做, 切勿乱丢词典文件
+在你的输入法词典中添加
+
+## Windows
+不知道
+
