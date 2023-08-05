@@ -209,6 +209,9 @@ JSON	json	10
 功能域	gongnengyu	10
 功能域	gny	9
 晴天	qingtian	10
+雨天	yutian	10
+雷暴	leibao	10
+
 天气	tianqi	10
 天气更替	tianqigengti	10
 天气更替	tianqi	9
@@ -341,9 +344,10 @@ TNT矿车	kuangche	9
 木桶	mutong	10
 一组	yizu	10
 一组	yz	9
+铁	tie	10
 铁砧	tiezhen	10
 铁砧	tz	9
-铁砧	tie	0
+铁砧	tie	1
 快速选择	kuaisuxuanze	10
 制作	zhizuo	10
 制作	zz	9
@@ -894,3 +898,19 @@ Xbox	xbox	10
 工作台	gongzuotai	10
 快捷栏	kuaijielan	10
 镐	gao	10
+放大化	fangdahua	10
+自定义	zidingyi	10
+调试	tiaoshi	10
+巨型生物群系	juxingshengwuqunxi	10
+有限	youxian	10
+虚空	xukong	10
+暂停	zanting	10
+退出	tuichu	10
+成就	chengjiu	10
+进度	jindu	10
+白日	bairi	10
+午夜	wuye	10
+中午	zhongwu	10
+夜晚	yewan	10
+日出	richu	10
+日落	riluo	10
