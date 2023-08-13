@@ -30,6 +30,7 @@ Quilt	quilt	9
 启动器	launcher	9
 PrismLauncher	pl	9
 PrismLauncher	prism	9
+PrismLauncher	prismlauncher	9
 OpenGL	opengl	9
 Vulkan	vulkan	9
 VulkanMod	vulkan	8
@@ -848,6 +849,7 @@ IX	jiu	9
 石匠	shijiang	100
 傻子	shazi	100
 卫道士	weidaoshi	100
+商人	shangren	9
 流浪商人	liulangshangren	100
 奸商	jianshang	100
 流浪商人	jianshang	9
@@ -935,6 +937,7 @@ Xbox	xbox	100
 品红	pinhong	100
 青色	qingse	100
 棕色	zongse	100
+金苹果	jpg	100
 金苹果	jinpingguo	100
 附魔金苹果	fumojinpingguo	100
 附魔金苹果	jinpingguo	9
@@ -985,6 +988,7 @@ Mojang徽标	mojang	9
 铁靴子	tiexuezi	100
 面包	mianbao	100
 红砖	hongzhuan	100
+桶	tong	1
 铁桶	tietong	100
 熔岩桶	rongyantong	100
 水桶	shuitong	100
@@ -1202,6 +1206,7 @@ Mojang徽标	mojang	9
 干海带	ganhaidai	100
 腐肉	furou	100
 鞍	an	100
+种子	zhongzi	100
 小麦种子	xiaomaizhongzi	100
 甜菜种子	tiancaizhongzi	100
 西瓜种子	xiguazhongzi	100
@@ -1356,6 +1361,7 @@ UI	ui	100
 竹按钮	zhuanniu	100
 马赛克	masaike	100
 竹板	zhuban	100
+幽匿	youni	100
 幽匿感测体	youniganceti	100
 校频幽匿感测体	jiaopinyouniganceti	100
 樱花木	yinghuamu
