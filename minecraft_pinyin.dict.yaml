@@ -12,12 +12,12 @@ version: "0.1"
 sort: by_weight
 ...
 
-我的世界	wodeshijie	114514
+我的世界	wodeshijie	100
 我的世界	mc	100
 Mojang	mojang	100
 Bugjump	mojang	100
 Microsoft	microsoft	100
-Minecraft	mc	114514
+Minecraft	mc	100
 刷铁机	shuatieji	100
 光影	guangying	100
 Sodium	sodium	9
@@ -196,7 +196,7 @@ UUID	uuid	100
 参数	canshu	100
 方块跟踪	fangkuaigenzong	100
 方块跟踪	fkgz	9
-方块	fangkuai	114514
+方块	fangkuai	100
 方块	fk	9
 召唤	zhaohuan	100
 生成	shengcheng	100
