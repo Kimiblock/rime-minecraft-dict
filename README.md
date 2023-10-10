@@ -1,5 +1,7 @@
 # rime-minecraft-dict
 
+[Dict source](https://www.mcbbs.net/thread-682370-1-1.html)
+
 ---
 
 一个为 Minecraft 打造的 Rime 拼音词典.
