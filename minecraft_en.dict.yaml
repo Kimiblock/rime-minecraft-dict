@@ -1,0 +1,43 @@
+# Rime dictionary
+# encoding: utf-8
+#
+# A Minecraft dictionary for simplified Chinese pinyin users
+#
+# Created by Kimiblock
+#
+
+---
+name: minecraft_en
+version: "1.0"
+sort: by_weight
+...
+
+Mojang	Mojang
+Bugjump	Bugjump
+Minecraft	Minecraft
+Sodium	Sodium
+Optifine	Optifine
+Fabric	Fabric
+Forge	Forge
+NeoForge	NeoForge
+LiteLoader	LiteLoader
+Quilt	Quilt
+Prism Launcher	Prism
+OpenGL	OpenGL
+Vulkan	Vulkan
+VulkanMod	VulkanMod
+GalactiCraft	GalactiCraft
+EULA	EULA
+JSON	JSON
+URL	URL
+PvP	PvP
+Realm	Realm
+API	API
+RTX	RTX
+Ping	Ping
+Steve	Steve
+Alex	Alex
+Paper	Paper
+Alpha	Alpha
+IP	IP
+Wi-Fi	WIFI

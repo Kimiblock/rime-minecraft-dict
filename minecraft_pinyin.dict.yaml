@@ -7,691 +7,904 @@
 #
 
 ---
-name: minecraft_pinyin
-version: "0.1"
+name: minecraft_cn
+version: "1.0"
 sort: by_weight
 ...
 
 我的世界	wodeshijie	100
+我的世界
 我的世界	mc	100
-Mojang	mojang	100
 Bugjump	mojang	100
-Microsoft	microsoft	100
 Minecraft	mc	100
 刷铁机	shuatieji	100
+刷铁机
 光影	guangying	100
-Sodium	sodium	9
-Optifine	optifine	9
-Fabric	fabric	9
-LiteLoader	lite	9
-Quilt	quilt	9
+光影
 启动器	qidongqi	100
-启动器	qdq	9
+启动器
 启动器	launcher	9
-PrismLauncher	pl	9
-PrismLauncher	prism	9
-PrismLauncher	prismlauncher	9
-OpenGL	opengl	9
-Vulkan	vulkan	9
-VulkanMod	vulkan	8
 GalactiCraft	xingxi	100
 当个创世神	mc	9
-Minecraft for Rime	about	100
 https://github.com/Kimiblock/rime-minecraft-dict	about	9
-EULA	eula	100
 最终用户许可协议	eula	9
-原稿的副本	yuangao	1
-副本的副本	yuangao	1
+最终用户许可协议
+原稿的副本
+副本的副本
 可合成	kehecheng	100
+可合成
 建筑	jianzhu	100
+建筑
 自然	ziran	100
+自然
 装备	zhuangbei	100
+装备
 物品	wupin	100
-物品栏	wupin	9
+物品
 物品栏	wupinlan	100
-物品栏	inventory	9
+物品栏
 盔甲	kuijia	100
+盔甲
 炼药锅	lianyaoguo	100
+炼药锅
 黑色	heise	100
+黑色
 深蓝色	shenlanse	100
+深蓝色
 深绿色	shenlvse	100
+深绿色
 深绿色	shenluse	100
+深绿色
 湖蓝色	hulanse	100
+湖蓝色
 深红色	shenhongse	100
+深红色
 紫色	zise	100
+紫色
 金色	jinse	100
+金色
 灰色	huise	100
+灰色
 深灰色	shenhuise	100
+深灰色
 蓝色	lanse	100
+蓝色
 绿色	lvse	100
+绿色
 绿色	luse	100
+绿色
 天蓝色	tianlanse	100
+天蓝色
 红色	hongse	100
+红色
 浅紫色	qianzise	100
+浅紫色
 黄色	huangse	100
+黄色
 白色	baise	100
+白色
 方块类型	fangkuaileixing	100
-方块类型	fklx	100
+方块类型
 脉冲	maichong	100
-脉冲	mc	1
+脉冲
 连锁	liansuo	100
-连锁	ls	1
+连锁
 循环	xunhuan	100
-循环	xh	1
+循环
 条件	tiaojian	100
-条件	tj	1
+条件
 条件制约	tiaojianzhiyue	100
-条件制约	tiaojian	9
-条件制约	tj	1
+条件制约
 不受制约	bushouzhiyue	100
+不受制约
 红石控制	hongshikongzhi	100
-红石控制	hskz	9
+红石控制
 需要红石	xuyaohongshi	100
-需要红石	xyhs	9
+需要红石
 保持开启	baochikaiqi	100
-保持开启	bckq	9
+保持开启
 延迟游戏刻数	yanchiyouxikeshu	100
-延迟游戏刻数	ycyxks	9
+延迟游戏刻数
 在首个延迟时执行	zaishougeyanchishizhixing	100
-在首个延迟时执行	zsgycszx	9
+在首个延迟时执行
 悬浮说明	xuanfushuoming	100
-悬浮说明	xfsm	9
+悬浮说明
 命令方块	minglingfangkuai	100
-命令方块	mlfk	9
+命令方块
 昼夜更替	zhouyegengti	100
-昼夜更替	zygt	9
+昼夜更替
 所有玩家	suoyouwanjia	100
+所有玩家
 所有玩家	sywj	9
 所有实体	suoyoushiti	100
+所有实体
 所有实体	syst	9
 最近的玩家	zuijindewanjia	100
+最近的玩家
 最近的玩家	zuijinwanjia	100
+最近的玩家
 最近的玩家	zywj	9
 随机玩家	suijiwanjia	100
+随机玩家
 随机玩家	sjwj	9
 数据标签	shujubiaoqian	100
+数据标签
 数据标签	sjbq	9
 命名空间	mingmingkongjian	100
+命名空间
 命名空间	mmkj	9
 区块	qukuai	100
+区块
 区块	qk	9
 游戏模式	youximoshi	100
+游戏模式
 游戏模式	yxms	9
 NPC	npc	100
+NPC
 附魔	fumo	100
+附魔
 附魔	fm	9
 附魔	enchant	9
 实体数据	shitishuju	100
+实体数据
 实体数据	stsj	100
+实体数据
 记分板	jifenban	100
+记分板
 记分板	jfb	100
+记分板
 迷雾	miwu	100
+迷雾
 迷雾	fog	100
+迷雾
 迷雾	mw	9
 作弊	zuobi	100
+作弊
 作弊	cheat	100
+作弊
 作弊	zb	9
 服主	fuzhu	100
+服主
 服主	fz	9
 服主	op	100
+服主
 游戏规则	youxiguize	100
+游戏规则
 游戏规则	gamerule	100
+游戏规则
 游戏规则	yxgz	9
 布尔值	buerzhi	100
+布尔值
 布尔值	bool	100
-布尔值	bez	1
+布尔值
 维度	weidu	100
+维度
 维度	wd	9
 维度	dimension	100
+维度
 选择器	xuanzeqi	100
+选择器
 选择器	xzq	9
 UUID	uuid	100
+UUID
 像素	xiangsu	100
+像素
 像素	xs	9
 筛选器	shaixuanqi	100
+筛选器
 创造模式	chuangzaomoshi	100
-创造模式	chuangzao	1
-创造模式	czms	9
-创造模式	cz	1
+创造模式
 创造	chuangzao	100
-创造	cz	9
+创造
 结构	jiegou	100
-结构	jg	9
+结构
 生物群系	shengwuqunxi	100
+生物群系
 生物群系	swqx	9
 生物群系	biome	9
 骑乘	qicheng	100
+骑乘
 骑乘	qc	9
 骑手	qishou	100
+骑手
 骑手	qs	0
 自动保存	zidongbaocun	100
+自动保存
 自动保存	zdbc	9
 常加载区域	changjiazaiquyu	100
+常加载区域
 常加载区域	cjzqy	9
 队伍	duiwu	100
+队伍
 队伍	team	0
 队伍	dw	9
 视野	shiye	100
+视野
 视野	fov	0
 种子	zhongzi	100
+种子
 种子	zz	9
-种子	seed	0
 生成	shengcheng	100
+生成
 生成	sc	9
 生成点	shengchengdian	100
+生成点
 生成点	scd	9
 出生点	chushengdian	100
+出生点
 出生点	csd	9
 重生点	chongshengdian	100
+重生点
 重生点	csd	9
 传送	chuansong	100
+传送
 传送	cs	100
-传送	tp	9
+传送
 传送	teleport	9
 扩散	kuosan	100
+扩散
 扩散	ks	9
 统计信息	tongjixinxi	100
+统计信息
 统计信息	tjxx	9
-统计信息	stat	9
 参数	canshu	100
+参数
 方块跟踪	fangkuaigenzong	100
+方块跟踪
 方块跟踪	fkgz	9
 方块	fangkuai	100
-方块	fk	9
+方块
 召唤	zhaohuan	100
+召唤
 生成	shengcheng	100
+生成
 对象	duixiang	100
+对象
 标签	biaoqian	100
-标签	tag	9
-JSON	json	100
+标签
 字符串	zifuchuan	100
+字符串
 终为白日	zhongweibairi	100
+终为白日
 终为白日	zwbr	9
 触发器	chufaqi	100
+触发器
 光照	guangzhao	100
+光照
 光照	gz	9
 功能域	gongnengyu	100
+功能域
 功能域	gny	9
 晴天	qingtian	100
+晴天
 雨天	yutian	100
+雨天
 雷暴	leibao	100
-
+雷暴
 天气	tianqi	100
+天气
 天气更替	tianqigengti	100
+天气更替
 天气更替	tianqi	9
-天气更替	tq	0
 天气状态	tianqizhuangtai	100
+天气状态
 天气状态	tianqi	9
 天气状态	tq	0
 雷阵雨	leizhenyu	100
+雷阵雨
 雷阵雨	lzy	9
 雷阵雨	thunder	9
 雷雨	leiyu	100
+雷雨
 雷雨	ly	9
 雷雨	thunder	9
 白名单	baimingdan	100
+白名单
 白名单	bmd	9
 白名单	whitelist	9
 管理	guanli	100
+管理
 管理	op	0
 管理	gl	9
 验证	yanzheng	100
+验证
 验证	yz	9
 边界	bianjie	100
+边界
 边界	bj	9
-URL	url	100
 经验值	jingyanzhi	100
+经验值
 经验值	jingyan	100
+经验值
 经验值	jyz	9
 经验值	jy	0
 经验值	xp	9
 经验值	exp	0
 经验	jingyan	100
+经验
 经验	exp	9
 经验	jy	9
 剥夺	boduo	100
+剥夺
 剥夺	bd	9
 变量	bianliang	100
+变量
 变量	bl	9
 密钥	miyao	100
+密钥
 密钥	my	9
 权限	quanxian	100
+权限
 权限	qx	9
 权限	permission	9
 磁盘	cipan	100
+磁盘
 手柄	shoubing	100
+手柄
 信标	xinbiao	100
+信标
 信标	xb	9
 信标	beacon	9
 酿造台	niangzaotai	100
+酿造台
 酿造台	nzt	9
 酿造台	brewing	9
 箱子	xiangzi	100
+箱子
 箱子	xz	9
 箱子	chest	9
 大型箱子	daxingxiangzi	100
+大型箱子
 大型箱子	dxxz	9
 大型箱子	xiangzi	8
 大型箱子	xz	8
 大型箱子	chest	8
 合成	hecheng	100
+合成
 合成	hc	9
 合成	crafting	9
 物品选栏	wupinxuanlan	100
+物品选栏
 物品选栏	wpxl	9
 发射器	fasheqi	100
+发射器
 发射器	touzhiqi	8
 发射器	fsq	9
-发射器	dispenser	9
 投掷器	touzhiqi	100
+投掷器
 投掷器	fasheqi	8
 投掷器	tzq	9
-投掷器	dropper	9
 等级要求	dengjiyaoqiu	100
+等级要求
 等级要求	djyq	9
 等级要求	levelreq	9
 青金石	qingjinshi	100
+青金石
 青金石	qjs	9
 青金石	qinjingshi	9
 青金石	qingjingshi	9
 青金石	qinjinshi	9
-青金石	lapis	9
 末影箱	moyingxiang	100
+末影箱
 末影箱	myx	9
-末影箱	enderchest	9
 熔炉	ronglu	100
+熔炉
 熔炉	rl	9
-熔炉	furnace	9
 漏斗	loudou	100
+漏斗
 漏斗	ld	9
-漏斗	hopper	9
 织布机	zhibuji	100
-织布机	zbj	9
-织布机	loom	9
+织布机
 矿车	kuangche	100
-矿车	kc	9
-矿车	minecart	9
+矿车
 运输矿车	yunshukuangche	100
-运输矿车	minecart	8
+运输矿车
 运输矿车	kuangche	9
 命令方块矿车	minglingfangkuaikuangche	100
+命令方块矿车
 命令方块矿车	minglingfangkuai	9
 命令方块矿车	kuangche	8
 命令方块矿车	minecart	8
 动力矿车	donglikuangche	100
+动力矿车
 动力矿车	kuangche	9
 漏斗矿车	loudoukuangche	100
+漏斗矿车
 漏斗矿车	kuangche	9
 TNT矿车	tntkuangche	100
-TNT矿车	tnt	0
-TNT矿车	kuangche	9
-
+TNT 矿车
+TNT 矿车	tnt	0
+TNT 矿车	kuangche	9
+		
 修复和命名	xiufuhemingming	100
+修复和命名
 修复和命名	xfhmm	9
 昂贵	anggui	100
-昂贵	ag	9
+昂贵
 过于昂贵	guoyuanggui	100
+过于昂贵
 过于昂贵	gyag	9
-过于昂贵	anggui	8
-过于昂贵	ag	8
 祛魔	qumo	100
+祛魔
 祛魔	qm	9
 修复和祛魔	xiufuhequmo	100
+修复和祛魔
 修复和祛魔	xfhqm	9
 切石机	qieshiji	100
+切石机
 切石机	qsj	9
 锻造台	duanzaotai	100
+锻造台
 锻造台	dzt	9
 潜影盒	qianyinghe	100
+潜影盒
 潜影盒	qyh	9
-潜影盒	shulker	0
 木桶	mutong	100
+木桶
 一组	yizu	100
+一组
 一组	yz	9
 铁	tie	100
+铁
 铁砧	tiezhen	100
+铁砧
 铁砧	tz	9
 铁砧	tie	1
 快速选择	kuaisuxuanze	100
+快速选择
 制作	zhizuo	100
+制作
 制作	zz	9
 丢弃	diuqi	100
+丢弃
 丢弃	dq	9
 编辑	bianji	100
+编辑
 编辑	bj	9
 等级	dengji	100
+等级
 等级	dj	9
-等级	level	9
 新	xin	100
+新
 新	x	0
 配方书	peifangshu	100
-配方书	peifang	9
+配方书
 配方书	pfs	9
 配方	peifang	100
+配方
 配方	pf	9
 放置	fangzhi	100
+放置
 快速移动	kuaisuyidong	100
+快速移动
 快速移动	ksyd	9
-快速移动	yidong	0
 可合成	kehecheng	100
+可合成
 移除	yichu	100
-移除	yc	9
+移除
 燃料	ranliao	100
-燃料	rl	9
+燃料
 重命名	chongmingming	100
-重命名	cmm	9
+重命名
 槽位	caowei	100
-槽位	cw	9
+槽位
 标签页	biaoqianye	100
+标签页
 拿取	naqu	100
-拿取	nq	9
+拿取
 快捷键	kuaijiejian	100
+快捷键
 动作	dongzuo	100
-动作	dz	9
+动作
 绑定	bangding	100
+绑定
 默认设置	morenshezhi	100
-默认设置	moren	8
-默认设置	mrsz	9
+默认设置
 默认	moren	100
-默认	mr	9
+默认
 按钮	anniu	100
-按钮	an	0
+按钮
 视角	shijiao	100
+视角
 控制	kongzhi	100
+控制
 熔岩湖	rongyanhu	100
-熔岩湖	ryh	9
-熔岩湖	lavalake	9
+熔岩湖
 混沌洞穴	hundundongxue	100
-混沌洞穴	hddx	9
-混沌洞穴	cavechaos	9
+混沌洞穴
 探洞者的喜悦	tandongzhedexiyue	100
+探洞者的喜悦
 探洞者的喜悦	tdzdxy	9
 旱地	handi	100
+旱地
 空岛	kongdao	100
+空岛
 空岛	kd	9
 水世界	shuishijie	100
+水世界
 预设	yushe	100
+预设
 预设	preset	9
 预设	ys	9
 随机	suiji	100
+随机
 随机	sj	9
 海平面	haipingmian	100
+海平面
 散布	sanbu	100
+散布
 洞穴	dongxue	100
+洞穴
 地牢	dilao	100
+地牢
 地牢	dl	9
 熔岩海	rongyanhai	100
+熔岩海
 废弃矿井	feiqikuangjing	100
+废弃矿井
 废弃矿井	feiqikuangkeng	100
+废弃矿井
 海底神殿	haidishendian	100
+海底神殿
 海底神殿	hdsd	9
 海底神殿	monuments	9
 峡谷	xiagu	100
+峡谷
 峡谷	xg	9
 要塞	yaosai	100
+要塞
 要塞	ys	9
 神殿	shendian	100
+神殿
 神殿	sd	9
 海底废墟	haidifeixu	100
+海底废墟
 海底废墟	hdfx	9
 村庄	cunzhuang	100
+村庄
 村庄	cz	9
 湖泊	hupo	100
+湖泊
 湖泊	hp	9
 湖泊密度	hupomidu	100
+湖泊密度
 湖泊密度	hupo	9
 湖泊密度	hpmd	9
 湖泊密度	hp	8
 超平坦	chaopingtan	100
+超平坦
 超平坦	cpt	9
-Realm	realm	100
 奖励箱	jianglixiang	100
+奖励箱
 奖励箱	xiangzi	7
 奖励箱	jlx	9
-PvP	pvp	100
 重生	chongsheng	100
+重生
 重生	cs	9
 重生半径	chongshengbanjing	100
+重生半径
 重生半径	chongsheng	9
 重生半径	cs	8
 火焰蔓延	huoyanmanyan	100
+火焰蔓延
 火焰蔓延	hymy	9
 火焰蔓延	huoyan	8
 火焰蔓延	hy	8
 掉落物	diaoluowu	100
+掉落物
 掉落物	diaoluo	9
 掉落物	dlw	9
 掉落	diaoluo	100
+掉落
 掉落	dl	9
 死亡不掉落	siwangbudiaoluo	100
+死亡不掉落
 死亡不掉落	swbdl	9
 死亡不掉落	keepinventory	100
+死亡不掉落
 死亡后保留物品栏	siwanghoubaoliuwupinlan	100
+死亡后保留物品栏
 死亡后保留物品栏	siwangbudiaoluo	9
 生命自然恢复	shengmingziranhuifu	100
+生命自然恢复
 生命自然恢复	smzrhf	9
 生命自然恢复	shengming	8
 TNT	tnt	100
-TNT爆炸	tntbaozha	100
-TNT爆炸	tnt	9
-TNT爆炸	tntbz	9
+TNT
+TNT 爆炸	tntbaozha	100
+TNT 爆炸
 生物生成	shengwushengcheng	100
+生物生成
 生物生成	swsc	9
 生物生成	shengwu	9
-生物生成	spawn	0
 生物破坏	shengwupohuai	100
+生物破坏
 生物破坏	swph	9
 生物破坏	mobgrief	100
+生物破坏
 教育版	jiaoyuban	100
+教育版
 非生物实体掉落	feishengwushitidiaoluo	100
+非生物实体掉落
 实验性	shiyanxing	100
+实验性
 实验性	syx	9
 玩法	wanfa	100
+玩法
 玩法	wf	9
 爬行	paxing	100
+爬行
 洞穴与山崖	dongxueyushanya	100
+洞穴与山崖
 旁观模式	pangguanmoshi	100
-旁观模式	spectator	100
+旁观模式
 旁观模式	pgms	9
-API	api	100
 首选项	shouxuanxiang	100
+首选项
 首选项	sxx	9
-首选项	preference	9
 初始地图	chushiditu	100
+初始地图
 初始地图	csdt	9
 创建	chuangjian	100
+创建
 创建	cj	9
 删除	shanchu	100
-删除	delete	9
-删除	sc	9
+删除
 冒险	maoxian	100
-冒险	adv	9
+冒险
 冒险	mx	9
 持久性	chijiuxing	100
+持久性
 持久性	cjx	9
 项目	xiangmu	100
-项目	project	9
+项目
 会话	huihua	100
-会话	hh	9
+会话
 多人游戏	duorenyouxi	100
+多人游戏
 多人游戏	dryx	9
 地形	dixing	100
+地形
 地形	dx	9
-地形	terrain	9
 坐标	zuobiao	100
-坐标	coordinate	9
+坐标
 坐标	zb	9
 随机游戏刻	suijiyouxike	100
+随机游戏刻
 随机刻	suijike	100
+随机刻
 刻	ke	100
+刻
 模拟距离	monijuli	100
+模拟距离
 主菜单	zhucaidan	100
+主菜单
 好友	haoyou	100
+好友
 成员	chengyuan	100
+成员
 成员	cy	9
-RTX	rtx	100
-Ping	ping	100
 封禁	fengjin	100
-封禁	ban	9
+封禁
 封禁	fj	9
 射杀	shesha	100
-射杀	ss	9
+射杀
 仙人掌	xianrenzhang	100
+仙人掌
 仙人掌	xrz	9
 淹死	yansi	100
+淹死
 逃离	taoli	100
+逃离
 爆炸	baozha	100
+爆炸
 炸死	zhasi	100
+炸死
 落地过猛	luodiguomeng	100
+落地过猛
 压扁	yabian	100
+压扁
 火球	huoqiu	100
+火球
 随着一声巨响消失了	suizheyishengjuxiangxiaoshile	100
-随着一声巨响消失了	szysjxxsl	9
-随着一声巨响消失了	suizhe	0
+随着一声巨响消失了
 感受到了动能	ganshoudaoledongneng	100
-感受到了动能	gsdldn	9
-感受到了动能	dongneng	0
-感受到了动能	ganshou	0
+感受到了动能
 死了	sile	100
+死了
 魔法	mofa	100
+魔法
 浴火焚身	yuhuofenshen	100
+浴火焚身
 浴火焚身	yhfs	9
 踏入	taru	100
+踏入
 战斗	zhandou	100
-战斗	tatakai	9
-战斗	zd	9
+战斗
 窒息	zhixi	100
+窒息
 窒息	zx	9
 熔岩	rongyan	100
+熔岩
 游泳	youyong	100
+游泳
 试图	shitu	100
+试图
 闪电	shandian	100
+闪电
 闪电束	shandianshu	100
-闪电束	shandian	9
+闪电束
 被闪电击中	beishandianjizhong	100
-被闪电击中	shandian	9
-被闪电击中	beishandian	9
+被闪电击中
 被魔法杀死了	beimofashasile	100
-被魔法杀死了	beimofashasi	9
-被魔法杀死了	bmfss	9
-发现	faxian	100
+被魔法杀死了
+被魔法杀死了	bmfssl	9
 发现了地板是熔岩做的	faxianledibanshirongyanzuode	100
+发现了地板是熔岩做的
 发现了地板是熔岩做的	faxian	9
-酥脆	sucui	100
 烤得酥脆	kaodesucui	100
-烤得酥脆	sucui	9
+烤得酥脆
 掉出了这个世界	diaochulezhegeshijie	100
-掉出了这个世界	diaochu	9
+掉出了这个世界
 唾沫	tuomo	100
+唾沫
 饿死	esi	100
+饿死
 饿死了	esile	100
+饿死了
 饿死了	esi	9
 甜浆果丛	tianjiangguocong	100
-甜浆果丛	tianjiangguo	9
+甜浆果丛
 伤害	shanghai	100
+伤害
 砸死	zasi	100
+砸死
 刺穿	cichuan	100
+刺穿
 凋零	diaoling	100
+凋零
 冻死	dongsi	100
+冻死
 音波尖啸	yinbojianxiao	100
+音波尖啸
 音波尖啸	ybjx	9
 抹除	mochu	100
+抹除
 钟乳石	zhongrushi	100
-钟乳石	zhongru	9
+钟乳石
 坠落	zhuiluo	100
+坠落
 坠落	zl	9
 石笋	shisun	100
+石笋
 梯子	tizi	100
+梯子
 注定要摔死	zhudingyaoshuaisi	100
-注定要摔死	zhuding	9
+注定要摔死
 摔伤	shuaishang	100
+摔伤
 完结	wanjie	100
+完结
 极限模式	jixianmoshi	100
+极限模式
 极限模式	jxms	9
-极限模式	hardcore	9
 你死了	nisile	100
-你死了!	nisile	9
+你死了
 保存	baocun	100
+保存
 保存并退出	baocunbingtuichu	100
-保存并退出	baocun	9
+保存并退出
 分数	fenshu	100
+分数
 标题屏幕	biaotipinmu	100
+标题屏幕
 标题屏幕	btpm	9
 试玩版	shiwanban	100
+试玩版
 锁定世界难度	suodingshijienandu	100
+锁定世界难度
 主世界	zhushijie	100
+主世界
 主世界	zsj	9
 下界	xiajie	100
+下界
 下界	xj	9
 末地	modi	100
-Steve	steve	100
+末地
 更衣室	gengyishi	100
+更衣室
 皮肤	pifu	100
-连接	lianjie	100
-无效	wuxiao	100
+皮肤
 无效的会话	wuxiaodehuihua	100
+无效的会话
 无效的会话	wxdhh	9
-无效的会话	wuxiao	9
 身份验证	shenfenyanzheng	100
+身份验证
 缓冲区	huanchongqu	100
+缓冲区
 溢出	yichu	100
+溢出
 滥发消息	lanfaxiaoxi	100
-滥发消息	spam	9
+滥发消息
 超时	chaoshi	100
+超时
 脚本	jiaoben	100
+脚本
 内存	neicun	100
+内存
 匹配	pipei	100
-Alpha	alpha	100
-IP	ip	100
+匹配
 过期	guoqi	100
+过期
 过期的	guoqide	9
-过期的	guoqi	9
 检查	jiancha	100
+检查
 开发	kaifa	100
-Wi-Fi	wifi	100
+开发
 超时	chaoshi	100
+超时
 破损	posun	100
+破损
 兼容	jianrong	100
+兼容
 光线追踪	guangxianzhuizong	100
+光线追踪
 光线追踪	rtx	9
 存档	cundang	100
+存档
 失败	shibai	100
+失败
 存储	cunchu	100
+存储
 导入	daoru	100
+导入
 主机	zhuji	100
+主机
 主机	host	9
 主机	zj	9
 设置	shezhi	100
+设置
 设置	sz	9
-设置	setting	9
-设置	settings	9
 力量	liliang	100
-力量	ll	9
+力量
 火矢	huoshi	100
-火矢	hs	9
+火矢
 无限	wuxian	100
-无限	wx	9
+无限
 冲击	chongji	100
-冲击	cj	9
+冲击
 多重射击	duochongsheji	100
+多重射击
 多重射击	dcsj	9
 穿透	chuantou	100
-穿透	ct	9
+穿透
 快速装填	kuaisuzhuangtian	100
+快速装填
 快速装填	kszt	9
 绑定诅咒	bangdingzuzhou	100
+绑定诅咒
 消失诅咒	xiaoshizuhou	100
+消失诅咒
 锋利	fengli	100
+锋利
 节肢杀手	jiezhishashou	100
+节肢杀手
 亡灵杀手	wanglingshashou	100
+亡灵杀手
 效率	xiaolv	100
+效率
 耐久	naijiu	100
+耐久
 火焰附加	huoyanfujia	100
+火焰附加
 饵钓	erdiao	100
+饵钓
 冰霜行者	bingshuangxingzhe	100
-冰霜行者	bingshuang	100
+冰霜行者
 击退	jitui	100
+击退
 抢夺	qiangduo	100
+抢夺
 I	yi	9
 X	shi	9
 II	er	9
@@ -703,1048 +916,1987 @@ VII	qi	9
 VIII	ba	9
 IX	jiu	9
 抢夺	qiangduo	100
+抢夺
 时运	shiyun	100
+时运
 海之眷顾	haizhijuangu	100
+海之眷顾
 经验修补	jingyanxiubu	100
+经验修补
 水下呼吸	shuixiahuxi	100
+水下呼吸
 保护	baohu	100
+保护
 爆炸保护	baozhabaohu	100
+爆炸保护
 摔落缓冲	shuailuohuanchong	100
+摔落缓冲
 摔落缓冲	slhc	9
 掉落保护	diaoluobaohu	100
+掉落保护	dlbh	9
+掉落保护
 火焰保护	huoyanbaohu	100
+火焰保护	hybh	9
+火焰保护
 弹射物保护	tanshewubaohu	100
-弹射物保护	tanshewu	9
+弹射物保护	tswbh	9
+弹射物保护
 弹射物	tanshewu	100
+弹射物
 灵魂疾行	linghunjixing	100
-灵魂疾行	linghun	9
-灵魂	linghun	100
+灵魂疾行
 迅捷潜行	xunjieqianxing	100
+迅捷潜行
 荆棘	jingji	100
+荆棘
 精准采集	jingzhuncaiji	100
+精准采集
 丝绸之触	sichouzhichu	100
+丝绸之触
 丝绸之触	jingzhuncaiji	9
 深海探索者	shenhaitansuozhe	100
+深海探索者
 水下速掘	shuixiasujue	100
+水下速掘
 引雷	yinlei	100
+引雷
 忠诚	zhongcheng	100
+忠诚
 激流	jiliu	100
+激流
 穿刺	chuanci	100
+穿刺
 区域效果云	quyuxiaoguoyun	100
+区域效果云
 盔甲架	kuijiajia	100
+盔甲架
 箭	jian	100
+箭
 蝙蝠	bianfu	100
+蝙蝠
 蜜蜂	mifeng	100
+蜜蜂
 烈焰人	lieyanren	100
+烈焰人
 船	chuan	100
+船
 猫	mao	100
+猫
 洞穴蜘蛛	dongxuezhizhu	100
+洞穴蜘蛛
 洞穴蜘蛛	zhuzhu	9
 蜘蛛	zhizhu	100
+蜘蛛
 鸡	ji	100
+鸡
 牛	niu	100
+牛
 苦力怕	kulipa	100
+苦力怕
 苦力怕	creeper	9
 苦力怕	paxingzhe	9
 爬行者	paxingzhe	100
+爬行者
 海豚	haitun	100
+海豚
 山羊	shanyang	100
+山羊
 熊猫	xiongmao	100
+熊猫
 驴	lv	100
+驴
 驴	lu	0
 末影龙	moyinglong	100
+末影龙
 溺尸	nishi	100
+溺尸
 鸡蛋	jidan	100
+鸡蛋
 远古守卫者	yuangushouweizhe	100
+远古守卫者
 末地水晶	modishuijin	100
+末地水晶
 末影人	moyingren	100
+末影人
 末影人	ande	9
 末影螨	moyingman	100
+末影螨
 末影珍珠	moyingzhenzhu	100
+末影珍珠
 唤魔者	huanmozhe	100
+唤魔者
 唤魔者尖牙	huanmozhejianya	100
+唤魔者尖牙
 唤魔者尖牙	huanmozhe	9
 末影之眼	moyingzhiyan	100
+末影之眼
 下落的方块	xialuodefangkuai	100
+下落的方块
 烟花火箭	yanhuahuojian	100
+烟花火箭
 鱼钩	yugou	100
+鱼钩
 小丑鱼	xiaochouyu	100
+小丑鱼
 狐狸	huli	100
+狐狸
 鳕鱼	xueyu	100
+鳕鱼
 河豚	hetun	100
+河豚
 鲑鱼	guiyu	100
+鲑鱼
 鲑鱼	salmon	9
 热带鱼	redaiyu	100
+热带鱼
 美西螈	meixiyuan	100
+美西螈
 恶魂	ehun	100
+恶魂
 发光鱿鱼	faguangyouyu	100
+发光鱿鱼
 猪灵	zhuling	100
+猪灵
 猪灵蛮兵	zhulingmanbing	100
+猪灵蛮兵
 守卫者	shouweizhe	100
+守卫者
 疣猪兽	youzhushou	100
+疣猪兽
 马	ma	100
+马
 尸壳	shike	100
+尸壳
 尸壳	shiqiao	100
+尸壳
 劫掠兽	jielueshou	100
+劫掠兽
 铁傀儡	tuikuilei	100
+铁傀儡
 拴绳	shuansheng	100
+拴绳
 拴绳结	shuansheng	100
+拴绳结
 拴绳结	shuansheng	9
 滞留	zhiliu	100
+滞留
 滞留药水	zhiliuyaoshui	100
+滞留药水
 滞留药水	zlys	9
 滞留药水	zhiliu	9
 羊驼	yangtui	100
+羊驼
 行商羊驼	xingshangyangtuo	100
+行商羊驼
 唾沫	tuomo	100
+唾沫
 羊驼唾沫	yangtuotuomo	100
+羊驼唾沫
 羊驼唾沫	yangtuo	9
 岩浆怪	yanjiangguai	100
+岩浆怪
 骡	luo	100
+骡
 哞菇	mougu	100
+哞菇
 豹猫	baomao	100
+豹猫
 画	hua	100
+画
 鹦鹉	yingwu	100
+鹦鹉
 幻翼	huanyi	100
+幻翼
 猪	zhu	100
+猪
 掠夺者	lueduozhe	100
+掠夺者
 北极熊	beijixiong	100
+北极熊
 兔子	tuzi	100
+兔子
 绵羊	mianyang	100
+绵羊
 羊	yang	100
+羊
 潜影贝	qianyingbei	100
+潜影贝
 潜影弹	qianyingdan	100
+潜影弹
 蠹	du	100
+蠹
 蠹虫	duchong	100
+蠹虫
 蠹虫	duyu	9
 骷髅	kulou	100
+骷髅
 骷髅马	kulouma	100
-骷髅马	kulou
+骷髅马
+骷髅马	kulou	
 流浪者	liulangzhe	100
+流浪者
 史莱姆	shilaimu	100
+史莱姆
 嗅探兽	xiutanshou	100
+嗅探兽
 雪球	xueqiu	100
+雪球
 雪傀儡	xuekuilei	100
+雪傀儡
 药水	yaoshui	100
+药水
 鱿鱼	youyu	100
+鱿鱼
 炽足兽	zhizushou	100
+炽足兽
 三叉戟	sanchaji	100
+三叉戟
 相机	xiangji	100
+相机
 海龟	haigui	100
+海龟
 未知	weizhi	100
+未知
 恼鬼	naogui	100
+恼鬼
 村民	cunmin	100
+村民
 盔甲匠	kuijiajiang	100
+盔甲匠
 屠夫	tufu	100
+屠夫
 制图师	zhitushi	100
+制图师
 牧师	mushi	100
+牧师
 农民	nongmin	100
+农民
 渔夫	yufu	100
+渔夫
 制箭师	zhijianshi	100
+制箭师
 皮匠	pijiang	100
+皮匠
 图书管理员	tushuguanliyuan	100
+图书管理员
 牧羊人	muyangren	100
+牧羊人
 工具匠	gongjujiang	100
+工具匠
 武器匠	wuqijiang	100
+武器匠
 石匠	shijiang	100
+石匠
 傻子	shazi	100
+傻子
 卫道士	weidaoshi	100
+卫道士
 商人	shangren	9
 流浪商人	liulangshangren	100
+流浪商人
 奸商	jianshang	100
+奸商
 流浪商人	jianshang	9
 女巫	nvwu	100
+女巫
 女巫	nuwu	9
 凋灵	diaoling	100
+凋灵
 凋灵骷髅	diaolingkulou	100
+凋灵骷髅
 凋灵骷髅	diaoling	9
 凋灵之首	diaolingzhishou	100
+凋灵之首
 凋灵之首	diaolingtou	9
 凋灵之首	diaoling	9
 狼	lang	0
 经验球	jingyanqiu	100
+经验球
 经验球	jingyan	9
 附魔之瓶	fumozhiping	100
+附魔之瓶
 附魔之瓶	fumo	9
 僵尸疣猪兽	jiangshiyouzhushou	100
+僵尸疣猪兽
 僵尸	jiangshi	100
+僵尸
 僵尸马	jiangshima	100
+僵尸马
 僵尸马	jiangshi	9
 僵尸猪灵	jiangshizhuling	100
+僵尸猪灵
 僵尸猪灵	jiangshi	9
 僵尸村民	jiangshicunmin	100
+僵尸村民
 僵尸村民	jiangshi	9
 端口	duankou	100
+端口
 服务器	fuwuqi	100
+服务器
 末地城	modicheng	100
+末地城
 末地城	modi	9
 下界要塞	xiajieyaosai	100
+下界要塞
 下界要塞	xiajie	9
 林地府邸	lindifudi	100
+林地府邸
 神庙	shenmiao	100
+神庙
 沉船	chenchuan	100
+沉船
 埋藏的宝藏	maicangdebaozang	100
+埋藏的宝藏
 掠夺者前哨站	lueduozheqianshaozhan	100
+掠夺者前哨站
 掠夺者前哨站	lueduozhe	9
 堡垒遗迹	baoleiyiji	100
+堡垒遗迹
 废弃传送门	feiqichuansongmen	100
+废弃传送门
 Xbox	xbox	100
+Xbox
 输入	shuru	100
+输入
 结果	jieguo	100
+结果
 跳跃	tiaoyue	100
+跳跃
 跳	tiao	100
+跳
 移动	yidong	100
+移动
 原木	yuanmu	100
+原木
 树	shu	100
+树
 破坏	pohuai	100
+破坏
 瞄准	miaozhun	100
+瞄准
 选择	xuanze	100
+选择
 方格	fangge	100
+方格
 工作台	gongzuotai	100
+工作台
 快捷栏	kuaijielan	100
+快捷栏
 镐	gao	100
+镐
 放大化	fangdahua	100
+放大化
 自定义	zidingyi	100
+自定义
 调试	tiaoshi	100
+调试
 巨型生物群系	juxingshengwuqunxi	100
+巨型生物群系
 有限	youxian	100
+有限
 虚空	xukong	100
+虚空
 暂停	zanting	100
+暂停
 退出	tuichu	100
+退出
 成就	chengjiu	100
+成就
 进度	jindu	100
+进度
 白日	bairi	100
+白日
 午夜	wuye	100
+午夜
 中午	zhongwu	100
+中午
 夜晚	yewan	100
+夜晚
 日出	richu	100
+日出
 日落	riluo	100
+日落
 铁甲	tiejia	100
+铁甲
 盾牌	dunpai	100
+盾牌
 抵挡	didang	100
+抵挡
 格挡	gedang	100
+格挡
 伪装	weizhuang	100
+伪装
 雕刻	diaoke	100
+雕刻
 染料	ranliao	100
+染料
 副本	fuben	100
+副本
 空气	kongqi	100
+空气
 苹果	pingguo	100
+苹果
 成年	chengnian	100
+成年
 成年美西螈	chengnian	9
 幼年	younian	100
+幼年
 幼年美西螈	younian	9
 粉红色	fenhongse	100
+粉红色
 品红	pinhong	100
+品红
 青色	qingse	100
+青色
 棕色	zongse	100
+棕色
 金苹果	jpg	100
+金苹果
 金苹果	jinpingguo	100
+金苹果
 附魔金苹果	fumojinpingguo	100
+附魔金苹果
 附魔金苹果	jinpingguo	9
 附魔金苹果	fumo	8
 药箭	yaojian	100
+药箭
 旗帜	qizhi	100
+旗帜
 方框边	fangkuangbian	100
+方框边
 砖纹	zhuanwen	100
+砖纹
 圆形	yuanxing	100
+圆形
 盾徽	dunhui	100
+盾徽
 十字	shizi	100
+十字
 斜十字	xieshizi	100
+斜十字
 波纹边	bowenbian	100
+波纹边
 上三角	shangsanjiao	100
+上三角
 下三角	xiasanjiao	100
+下三角
 花朵	huaduo	100
+花朵
 地球	diqiu	100
+地球
 渐淡	jiandan	100
+渐淡
 半方形	banfangxing	100
+半方形
 Mojang徽标	mojanghuibiao	100
+Mojang徽标
 Mojang徽标	mojang	9
 猪鼻	zhubi	100
+猪鼻
 菱形	lingxing	100
+菱形
 头颅	toulu	100
+头颅
 条纹	tiaowen	100
+条纹
 方	fang	100
+方
 竖条	shutiao	100
+竖条
 横条	hengtiao	100
+横条
 波纹	bowen	100
+波纹
 床	chuang	100
+床
 灾厄	zaie	100
+灾厄
 生牛肉	shengniurou	100
+生牛肉
 甜菜根	tiancaigen	100
+甜菜根
 甜菜汤	tiancaitang	100
+甜菜汤
 烈焰粉	lieyanfen	100
+烈焰粉
 烈焰棒	lieyanbang	100
+烈焰棒
 橡木船	xiangmuchuan	100
+橡木船
 云杉木船	yunshanmuchuan	100
+云杉木船
 白桦木船	baihuamuchuan	100
+白桦木船
 丛林木船	conglinmuchuan	100
+丛林木船
 金合欢木船	jinhehuanmuchuan	100
+金合欢木船
 深色橡木船	shensexiangmuchuan	100
+深色橡木船
 骨头	gutou	100
+骨头
 锁链靴子	suolianxuezi	100
+锁链靴子
 皮革靴子	pigexuezi	100
+皮革靴子
 钻石靴子	zuanshixuezi	100
+钻石靴子
 金靴子	jinxuezi	100
+金靴子
 铁靴子	tiexuezi	100
+铁靴子
 面包	mianbao	100
+面包
 红砖	hongzhuan	100
+红砖
 桶	tong	1
 铁桶	tietong	100
+铁桶
 熔岩桶	rongyantong	100
+熔岩桶
 水桶	shuitong	100
+水桶
 鳕鱼桶	xueyutong	100
+鳕鱼桶
 鲑鱼桶	guiyutong	100
+鲑鱼桶
 热带鱼桶	redaiyutong	100
+热带鱼桶
 河豚桶	hetuntong	100
+河豚桶
 生物桶	shengwutong	100
+生物桶
 美西螈桶	meixiyuantong	100
+美西螈桶
 鸭翅绿色	yachilvse	100
+鸭翅绿色
 鸭翅绿色	yachiluse	9
 紫红色	zihongse	100
+紫红色
 橙色	chengse	100
+橙色
 黄绿色	huanglvse	100
+黄绿色
 黄绿色	hls	9
 银色	yinse	100
+银色
 石首鱼	shishouyu	100
+石首鱼
 日纹鱼	riwenyu	100
+日纹鱼
 窥伺者	huisizhe	100
+窥伺者
 速跃者	suyuezhe	100
+速跃者
 咸水鱼	xianshuiyu	100
+咸水鱼
 多斑鱼	duobanyu	100
+多斑鱼
 飞翼鱼	feiyiyu	100
+飞翼鱼
 条纹鱼	tiaowenyu	100
+条纹鱼
 闪鳞鱼	shanlinyu	100
+闪鳞鱼
 方身鱼	fangshenyu	100
+方身鱼
 背蒂鱼	beidiyu	100
+背蒂鱼
 陶鱼	taoyu	100
+陶鱼
 海葵鱼	haikuiyu	100
+海葵鱼
 黑刺尾鲷	heiciweichou	100
+黑刺尾鲷
 蓝色多莉	lanseduoli	100
+蓝色多莉
 蝴蝶鱼	hudieyu	100
+蝴蝶鱼
 丽鱼	liyu	100
+丽鱼
 五彩搏鱼	wucaiboyu	100
+五彩搏鱼
 绣雀鲷	lvquechou	100
+绣雀鲷
 川纹笛鲷	chuanwendichou	100
+川纹笛鲷
 拟羊鱼	niyangyu	100
+拟羊鱼
 镰鱼	lianyu	100
+镰鱼
 华丽蝴蝶鱼	hualihudieyu	100
+华丽蝴蝶鱼
 鹦嘴鱼	yingzuiyu	100
+鹦嘴鱼
 额斑刺蝶鱼	ebancidieyu	100
+额斑刺蝶鱼
 红丽鱼	hongliyu	100
+红丽鱼
 红唇真蛇鳚	hongchunzhenshewei	100
+红唇真蛇鳚
 红边笛鲷	hongbiandichou	100
+红边笛鲷
 马鲅	maba	100
+马鲅
 白条双锯鱼	baitiaoshuangjuyu	100
+白条双锯鱼
 鳞鲀	lintun	100
+鳞鲀
 黄刺尾鲷	huangciweichou	100
+黄刺尾鲷
 高鳍鹦嘴鱼	gaoqiyinguiyu	100
+高鳍鹦嘴鱼
 蛋糕	dangao	100
+蛋糕
 被合成	beihecheng	100
+被合成
 胡萝卜钓竿	huluobodiaogan	100
+胡萝卜钓竿
 诡异菌钓竿	guiyijundiaogan	100
+诡异菌钓竿
 胡萝卜	huluobo	100
+胡萝卜
 金胡萝卜	jinhuluobo	100
+金胡萝卜
 金胡萝卜	huluobo	9
 木炭	mutan	100
+木炭
 锁链胸甲	suolianxiongjia	100
+锁链胸甲
 皮革外套	pigewaitao	100
-钻石胸甲zuanshixiongjia	100
+皮革外套
+钻石胸甲zuanshixiongjia	100	
+钻石胸甲zuanshixiongjia
 金胸甲	jinxiongjia	100
+金胸甲
 铁胸甲	tiexiongjia	100
+铁胸甲
 紫颂果	zisongguo	100
+紫颂果
 爆裂紫颂果	baoliezisongguo	100
+爆裂紫颂果
 爆裂紫颂果	zisongguo	9
 熟鸡肉	shujirou	100
+熟鸡肉
 熟猪排	shuzhupai	100
+熟猪排
 生鸡肉	shengjirou	100
+生鸡肉
 黏土球	niantuqiu	100
+黏土球
 时钟	shizhong	100
+时钟
 煤炭	meitan	100
+煤炭
 红石比较器	hongshibijiaoqi	100
+红石比较器
 指南针	zhinanzhen	100
+指南针
 磁石指针	cishizhizhen	100
+磁石指针
 曲奇	quqi	100
+曲奇
 弩	nu	100
+弩
 钻石	zuanshi	100
+钻石
 红石中继器	hongshizhongjiqi	100
+红石中继器
 金合欢木门	jinhehuanmumen	100
+金合欢木门
 白桦木门	baihuamumen	100
+白桦木门
 深色橡木门	shensexiangmumen	100
+深色橡木门
 铁门	tiemen	100
+铁门
 丛林木门	conglinmumen	100
+丛林木门
 橡木门	xiangmumen	100
+橡木门
 云杉木门	yunshanmumen	100
+云杉木门
 绯红木门	feihongmumen	100
+绯红木门
 诡异木门	guiyimumen	100
+诡异木门
 龙息	longxi	100
+龙息
 墨囊	monang	100
+墨囊
 荧光墨囊	yingguangmonang	100
+荧光墨囊
 荧光物品展示框	yingguangwupinzhanshikuang	100
+荧光物品展示框
 荧光物品展示框	wupinzhanshikuang	100
+荧光物品展示框
 鸡蛋	jidan	100
+鸡蛋
 鞘翅	qiaochi	100
+鞘翅
 绿宝石	lvbaoshi	100
+绿宝石
 绿宝石	lubaoshi	100
+绿宝石
 空地图	kongditu	100
+空地图
 空定位器地图	kongdingweiqiditu	100
+空定位器地图
 附魔书	fumoshu	100
+附魔书
 末地水晶	modishuijing	100
+末地水晶
 末地烛	modizhu	100
+末地烛
 羽毛	yumao	100
+羽毛
 发酵蛛眼	fajiaozhuyan	100
+发酵蛛眼
 火焰弹	huoyandan	100
+火焰弹
 烟火之星	yanhuozhixing	100
+烟火之星
 踪迹	zongji	100
+踪迹
 小型球状	xiaoxingqiuzhuang	100
+小型球状
 大型球状	daxingqiuzhuang	100
+大型球状
 星形	xingxing	100
+星形
 苦力怕状	kulipazhuang	100
+苦力怕状
 喷发状	penfazhuang	100
+喷发状
 熟鳕鱼	shuxueyu	100
+熟鳕鱼
 生鳕鱼	shengxueyu	100
+生鳕鱼
 照片	zhaopian	100
+照片
 熟鲑鱼	shuguiyu	100
+熟鲑鱼
 生鲑鱼	shengguiyu	100
+生鲑鱼
 钓鱼竿	diaoyugan	100
+钓鱼竿
 燧石	suishi	100
+燧石
 打火石	dahuoshi	100
+打火石
 花盆	huapen	100
+花盆
 物品展示框	wupinzhanshikuang	100
+物品展示框
 恶魂之泪	ehunzhilei	100
+恶魂之泪
 玻璃瓶	boliping	100
+玻璃瓶
 金粒	jinli	100
+金粒
 铁粒	tieli	100
+铁粒
 钻石斧	zuanshifu	100
+钻石斧
 金斧	jinfu	100
+金斧
 铁斧	tiefu	100
+铁斧
 石斧	shifu	100
+石斧
 木斧	mufu	100
+木斧
 锁链头盔	suoliantoukui	100
+锁链头盔
 皮革帽子	pigemaozi	100
+皮革帽子
 钻石头盔	zuanshitoukui	100
+钻石头盔
 金头盔	jintoukui	100
+金头盔
 铁头盔	tietoukui	100
+铁头盔
 钻石锄	zuanshichu	100
+钻石锄
 金锄	jinchu	100
+金锄
 铁锄	tiechu	100
+铁锄
 石锄	shichu	100
+石锄
 木锄	muchu	100
+木锄
 蜂蜜瓶	fengmiping	100
+蜂蜜瓶
 蜜脾	mipi	100
+蜜脾
 钻石马铠	zuanshimakai	100
+钻石马铠
 金马铠	jinmakai	100
+金马铠
 铁马铠	tiemakai	100
+铁马铠
 皮革马铠	pigemakai	100
+皮革马铠
 金锭	jinding	100
+金锭
 铁锭	tieding	100
+铁锭
 下界合金	xiajiehejin	100
+下界合金
 下界合金锭	xiajiehejinding	100
+下界合金锭
 下界合金碎片	xiajiehejinsuipian	100
+下界合金碎片
 下界合金剑	xiajiehejinjian	100
+下界合金剑
 下界合金镐	xiajiehejingao	100
+下界合金镐
 下界合金斧	xiajiehejinfu	100
+下界合金斧
 下界合金锹	xiajiehejinqiu	100
+下界合金锹
 下界合金锄	xiajiehejinchu	100
+下界合金锄
 下界合金靴	xiajiehejinxue	100
+下界合金靴
 下界合金靴子	xiajiehejinxuezi	100
+下界合金靴子
 下界合金护腿	xiajiehejinhutui	100
+下界合金护腿
 下界合金胸甲	xiajiehejinxiongjia	100
+下界合金胸甲
 下界合金甲	xiajiehejinjia	100
+下界合金甲
 下界合金头盔	xiajiehejintoukui	100
+下界合金头盔
 皮革	pige	100
+皮革
 锁链护腿	suolianhutui	100
+锁链护腿
 皮革裤子	pigekuzi	100
+皮革裤子
 钻石护腿	zuanshihutui	100
+钻石护腿
 金护腿	jinhutui	100
+金护腿
 铁护腿	tiehutui	100
+铁护腿
 鹦鹉螺壳	yingwuluoke	100
+鹦鹉螺壳
 海洋之心	haiyangzhixin	100
+海洋之心
 岩浆膏	yanjianggao	100
+岩浆膏
 地图	ditu	100
+地图
 林地探险家地图	linditanxianjiaditu	100
+林地探险家地图
 海洋探险家地图	haiyangtanxianjiaditu	100
+海洋探险家地图
 藏宝图	cangbaotu	100
+藏宝图
 西瓜片	xiguapian	100
+西瓜片
 奶桶	naitong	100
+奶桶
 牛奶桶	niunaitong	100
+牛奶桶
 瓶子草荚果	pingzicaojiaguo	100
+瓶子草荚果
 火把花种子	huobahuazhongzi	100
+火把花种子
 刷怪蛋	shuaguaidan	100
+刷怪蛋
 蘑菇煲	mogubao	100
+蘑菇煲
 熟羊肉	shuyangrou	100
+熟羊肉
 生羊肉	shengyangrou	100
+生羊肉
 命名牌	mingmingpai	100
+命名牌
 下界砖	xiajiezhuan	100
+下界砖
 下界石英	xiajieshiying	100
+下界石英
 下界疣	xiajieyou	100
+下界疣
 下界之星	xiajiezhixing	100
+下界之星
 钻石镐	zuanshigao	100
+钻石镐
 金镐	jingao	100
+金镐
 铁镐	tiegao	100
+铁镐
 石镐	shigao	100
+石镐
 木镐	mugao	100
+木镐
 熟猪排	shuzhupai	100
+熟猪排
 生猪排	shengzhupai	100
+生猪排
 马铃薯	malingshu	100
+马铃薯
 烤马铃薯	kaomalingshu	100
+烤马铃薯
 烤马铃薯	malingshu	9
 毒马铃薯	dumalingshu	100
+毒马铃薯
 毒马铃薯	malingshu	9
 海晶砂粒	haijingshali	100
+海晶砂粒
 海晶碎片	haijingsuipian	100
+海晶碎片
 南瓜派	nanguapai	100
+南瓜派
 熟兔肉	shuturou	100
+熟兔肉
 兔子脚	tuzijiao	100
+兔子脚
 兔子皮	tuzipi	100
+兔子皮
 生兔肉	shengturou	100
+生兔肉
 兔肉煲	turoubao	100
+兔肉煲
 音乐唱片	yinyuechangpian	100
+音乐唱片
 唱片	changpian	100
+唱片
 红石粉	hongshifen	100
+红石粉
 甘蔗	ganzhe	100
+甘蔗
 海带	haidai	100
+海带
 干海带	ganhaidai	100
+干海带
 腐肉	furou	100
+腐肉
 鞍	an	100
+鞍
 种子	zhongzi	100
+种子
 小麦种子	xiaomaizhongzi	100
+小麦种子
 甜菜种子	tiancaizhongzi	100
+甜菜种子
 西瓜种子	xiguazhongzi	100
+西瓜种子
 南瓜种子	nanguazhongzi	100
+南瓜种子
 剪刀	jiandao	100
+剪刀
 钻石锹	zuanshiqiu	100
+钻石锹
 金锹	jinqiu	100
+金锹
 铁锹	tieqiu	100
+铁锹
 石锹	shiqiu	100
+石锹
 木锹	muqiu	100
+木锹
 告示牌	gaoshipai	100
+告示牌
 云杉木	yunshanmu	100
+云杉木
 橡木	xiangmu	100
+橡木
 白桦木	baihuamu	100
+白桦木
 丛林木	conglingmu	100
+丛林木
 金合欢木	jinhehuanmu	100
+金合欢木
 深色橡木	shensexiangmu	100
+深色橡木
 绯红木	feihongmu	100
+绯红木
 诡异木	guiyimu	100
+诡异木
 黏液球	nianyeqiu	100
+黏液球
 雪球	xueqiu	100
+雪球
 闪烁的西瓜片	shanshuodexiguapian	100
+闪烁的西瓜片
 蜘蛛眼	zhizhuyan	100
+蜘蛛眼
 木棍	mugun	100
+木棍
 火药	huoyao	100
+火药
 钻石剑	zuanshijian	100
+钻石剑
 金剑	jinjian	100
+金剑
 铁剑	tiejian	100
+铁剑
 石剑	shijian	100
+石剑
 木剑	mujian	100
+木剑
 小麦	xiaomai	100
+小麦
 书与笔	shuyubi	100
+书与笔
 成书	chengshu	100
+成书
 荧石粉	yingshifen	100
+荧石粉
 潜影壳	qianyingke	100
+潜影壳
 不死图腾	busituteng	100
+不死图腾
 海龟壳	haiguike	100
+海龟壳
 鳞甲	linjia	100
+鳞甲
 幻翼膜	huanyimo	100
+幻翼膜
 甜浆果	tianjiangguo	100
+甜浆果
 谜之炖菜	mizhiduncai	100
+谜之炖菜
 细雪桶	xixuetong	100
+细雪桶
 沉思	chensi	100
+沉思
 歌颂	gesong	100
+歌颂
 寻觅	xunmi	100
+寻觅
 感受	ganshou	100
+感受
 仰慕	yangmu	100
+仰慕
 呼唤	huhuan	100
+呼唤
 憧憬	chongjing	100
+憧憬
 想象	xiangxiang	100
+想象
 木板	muban	100
+木板
 墙	qiang	100
+墙
 栅栏	zhalan	100
+栅栏
 栅栏门	zhalanmen	100
+栅栏门
 栅栏门	zhalan	9
 楼梯	louti	100
+楼梯
 玻璃板	boliban	100
+玻璃板
 权限方块	quanxianfangkuai	100
+权限方块
 台阶	taijie	100
+台阶
 石砖	shizhuan	100
+石砖
 砂岩	shayan	100
+砂岩
 羊毛	yangmao	100
+羊毛
 羊毛地毯	yangmaoditan	100
+羊毛地毯
 羊毛地毯	yangmao	9
 混凝土粉末	hunningtufenmo	100
+混凝土粉末
 混凝土粉末	hunningtu	9
 混凝土	hunningtu	100
+混凝土
 陶瓦	taowa	100
+陶瓦
 带釉陶瓦	daiyoutaowa	100
+带釉陶瓦
 矿石	kuangshi	100
+矿石
 石头	shitou	100
+石头
 原木	yuanmu	100
+原木
 树叶	shuye	100
+树叶
 树苗	shumiao	100
+树苗
 种子	zhongzi	100
+种子
 农作物	nongzuowu	100
+农作物
 草	cao	1000
 花	hua	100
+花
 生食	shengshi	100
+生食
 熟食	shushi	100
+熟食
 其他食物	qitashiwu	100
+其他食物
 蘑菇	mogu	100
+蘑菇
 虫蚀石头	chongshishitou	100
+虫蚀石头
 刷怪蛋	shuaguaidan	100
+刷怪蛋
 头盔	toukui	100
+头盔
 胸甲	xiongjia	100
+胸甲
 护腿	hutui	100
+护腿
 靴子	xuezi	100
+靴子
 马铠	makai	100
+马铠
 剑	jian	100
+剑
 斧	fu	100
+斧
 镐	gao	100
+镐
 锹	qiu	100
+锹
 锄	chu	100
+锄
 喷溅药水	penjianyaoshui	100
+喷溅药水
 滞留药水	zhiliuyaoshui	100
+滞留药水
 黑板	heiban	100
+黑板
 生物头颅	shengwutoulu	100
+生物头颅
 铁轨	tiegui	100
+铁轨
 压力板	yaliban	100
+压力板
 活板门	huobanmen	100
+活板门
 珊瑚	shanhu	100
+珊瑚
 珊瑚块	shanhukuai	100
+珊瑚块
 珊瑚块	shanhu	9
 珊瑚装饰	shanhuzhuangshi	100
+珊瑚装饰
 珊瑚装饰	shanhu	9
 木头	mutou	100
+木头
 旗帜图案	qizhituan	100
+旗帜图案
 下界疣块	xiajieyoukuai	100
+下界疣块
 诡异疣块	guiyiyoukuai	100
+诡异疣块
 蜡烛	lazhu	100
+蜡烛
 山羊角	shanyangjiao	100
+山羊角
 杂项	zaxiang	100
+杂项
 命令	mingling	100
+命令
 UI	ui	100
+UI
 皮肤包	pifubao	100
+皮肤包
 纹理包	wenlibao	100
+纹理包
 混搭包	hundabao	100
+混搭包
 资源包	ziyuanbao	100
+资源包
 自动跳跃	zidongtiaoyue	100
+自动跳跃
 悬挂式	xuanguashi	100
+悬挂式
 垂钓	chuidiao	100
+垂钓
 陶片	taopian	100
+陶片
 竹	zhu	100
+竹
 竹筏	zhufa	100
+竹筏
 竹筏	zhu	9
 佳酿	jianiang	100
+佳酿
 利刃	liren	100
+利刃
 樱花	yinghua	100
+樱花
 刷子	shuazi	100
+刷子
 烈焰	lieyan	100
+烈焰
 木门	mumen	100
+木门
 运输	yunshu	100
+运输
 运输船	yunshuchuan	100
+运输船
 危机	weiji	100
+危机
 探险	tanxian	100
+探险
 挚友	zhiyou	100
+挚友
 爱心	aixin	100
+爱心
 心碎	xinsui	100
+心碎
 狼嚎	langhao	100
+狼嚎
 采矿	caikuang	100
+采矿
 悲恸	beitong	100
+悲恸
 富饶	furao	100
+富饶
 珍宝	zhenbao	100
+珍宝
 麦捆	maikun	100
+麦捆
 树荫	shuyin	100
+树荫
 护甲值	hujiazhi	100
+护甲值
 铸锭	zhuding	100
+铸锭
 晶体	jingti	100
-锻造	duanzao
+晶体
+锻造	duanzao	
 竹块	zhukuai	100
+竹块
 竹按钮	zhuanniu	100
+竹按钮
 马赛克	masaike	100
+马赛克
 竹板	zhuban	100
+竹板
 幽匿	youni	100
+幽匿
 幽匿感测体	youniganceti	100
+幽匿感测体
 校频幽匿感测体	jiaopinyouniganceti	100
-樱花木	yinghuamu
+校频幽匿感测体
+樱花木	yinghuamu	
 樱花树苗	yinghuashumiao	100
+樱花树苗
 雕纹书架	diaowenshujia	100
+雕纹书架
 书架	shujia	100
+书架
 饰纹陶罐	shiwentaoguan	100
+饰纹陶罐
 花簇	huazu	100
+花簇
 去皮竹块	qupizhukuai	100
+去皮竹块
 去皮	qupi	100
+去皮
 沙砾	shali	100
+沙砾
 可疑的沙砾	keyideshali	100
+可疑的沙砾
 沙子	shazi	100
+沙子
 可疑的沙子	keyideshazi	100
+可疑的沙子
 紫水晶	zishuijing	100
+紫水晶
 紫水晶质	zishuijingzhi	100
+紫水晶质
 铜质	tongzhi	100
+铜质
 钻石质	zuanshizhi	100
+钻石质
 绿宝石质	lvbaoshizhi	100
+绿宝石质
 金质	jinzhi	100
+金质
 铁质	tiezhi	100
+铁质
 青金石质	qingjinshizhi	100
+青金石质
 下界合金质	xiajiehejinzhi	100
+下界合金质
 石英质	shiyingzhi	100
+石英质
 红石质	hongshizhi	100
+红石质
 海岸	haian	100
+海岸
 沙丘	shaqiu	100
+沙丘
 眼眸	yanmou	100
+眼眸
 雇主	guzhu	100
+雇主
 牧民	mumin	100
+牧民
 肋骨	leigu	100
+肋骨
 哨兵	shaobing	100
+哨兵
 塑造	sucao	100
+塑造
 幽静	youjing	100
+幽静
 猪鼻	zhubi	100
+猪鼻
 尖塔	jianta	100
+尖塔
 潮汐	chaoxi	100
+潮汐
 监守	jianshou	100
+监守
 向导	xiangdao	100
+向导
 荒野	huangye	100
+荒野
 下界合金升级	xiajiehejinshengji	100
+下界合金升级
 附加包	fujiabao	100
+附加包
 行为包	xingweibao	100
+行为包
 激活铁轨	jihuotiegui	100
+激活铁轨
 开裂的铁砧	kailiedetiezhen	100
+开裂的铁砧
 损坏的铁砧	sunhuaidetiezhen	100
+损坏的铁砧
 屏障	pingzhang	100
+屏障
 主效果	zhuxiaoguo	100
+主效果
 辅助效果	fuzhuxiaoguo	100
+辅助效果
 主要效果	zhuyaoxiaoguo	100
+主要效果
 蜂箱	fengxiang	100
+蜂箱
 蜂巢	fengchao	100
+蜂巢
 标靶	biaoba	100
+标靶
 基岩	jiyan	100
+基岩
 潮涌核心	chaoyonghexin	100
+潮涌核心
 大型	daxing	100
+大型
 小型	xiaoxing	100
+小型
 垂滴叶	chuidiye	100
+垂滴叶
 垂根	chuigen	100
+垂根
 缠根泥土	changennitu	100
+缠根泥土
 孢子花	baozihua	100
+孢子花
 杜鹃	dujuan	100
+杜鹃
 杜鹃树叶	dujuanshuye	100
+杜鹃树叶
 盛开的	shengkaide	100
+盛开的
 杜鹃花丛	dujuanhuacong	100
+杜鹃花丛
 洞穴藤蔓	dongxuetengman	100
+洞穴藤蔓
 发光浆果	faguangjiangguo	100
+发光浆果
 苔藓块	taixiankuai	100
+苔藓块
 覆地苔藓	fuditaixian	100
+覆地苔藓
 骨块	gukuai	100
+骨块
 高炉	gaolu	100
+高炉
 煤炭块	meitankuai	100
+煤炭块
 钻石块	zuanshikuai	100
+钻石块
 绿宝石块	lvbaoshikuai	100
+绿宝石块
 金块	jinkuai	100
+金块
 铁块	tiekuai	100
+铁块
 青金石块	qingjinshikuai	100
+青金石块
 红石块	hongshikuai	100
+红石块
 红砖块	hongzhuankuai	100
+红砖块
 棕色蘑菇	zongsemogu	100
+棕色蘑菇
 蘑菇	mogu	100
+蘑菇
 蘑菇柄	mogubing	100
+蘑菇柄
 棕色蘑菇方块	zongsemogufangkuai	100
+棕色蘑菇方块
 重生锚	chongshengmao	100
+重生锚
 仙人掌	xianrenzhang	100
+仙人掌
 拼图方块	pintufangkuai	100
+拼图方块
 蜂蜜块	fengmikuai	100
+蜂蜜块
 蜜脾块	mipikuai	100
+蜜脾块
 磁石	cishi	100
+磁石
 下界苗	xiajiemiao	100
+下界苗
 绯红	feihong	100
+绯红
 诡异	guiyi	100
+诡异
 菌柄	junbing	100
+菌柄
 菌核	junhe	100
+菌核
 去皮	qupi	100
+去皮
 木栅栏	muzhalan	100
+木栅栏
 菌光体	junguangti	100
+菌光体
 菌岩	junyan	100
+菌岩
 玄武岩	xuanwuyan	100
+玄武岩
 磨制	mozhi	100
+磨制
 黑石	heishi	100
+黑石
 黑石砖	heishizhuan	100
+黑石砖
 裂纹	liewen	100
+裂纹
 砖墙	zhuanqiang	100
+砖墙
 镶金黑石	xiangjinheishi	100
+镶金黑石
 锁链	suolian	100
+锁链
 灵魂	linghun	100
+灵魂
 灵魂土	linghuntu	100
+灵魂土
 灵魂火	linghunhuo	100
+灵魂火
 营火	yinghuo	100
+营火
 下界砖	xiajiezhuan	100
+下界砖
 石英砖	shiyingzhuan	100
+石英砖
 陷阱箱	xianjingxiang	100
+陷阱箱
 染色玻璃	ranseboli	100
+染色玻璃
 结构空位	jiegoukongwei	100
+结构空位
 含水方块	hanshuifangkuai	100
+含水方块
 苔石	taishi	100
+苔石
 圆石	yuanshi	100
+圆石
 花岗岩	huagangyan	100
+花岗岩
 闪长岩	shanchangyan	100
+闪长岩
 安山岩	anshanyan	100
+安山岩
 砂岩	shayan	100
+砂岩
 红砖	hongzhuan	100
+红砖
 末地石	modishi	100
+末地石
 海晶石	haijinshi	100
+海晶石
 红砂岩	hongshayan	100
+红砂岩
 红色下界砖	hongsexiajiezhuan	100
+红色下界砖
 可可果	kekeguo	100
+可可果
 堆肥桶	duifeitong	100
+堆肥桶
 光源方块	guangyuanfangkuai	100
+光源方块
 循环型	xunhuanxing	100
+循环型
 连锁型	liansuoxing	100
+连锁型
 阳光传感器	yangguangchuanganqi	100
+阳光传感器
 枯萎的灌木	kuweideguanmu	100
+枯萎的灌木
 探测铁轨	tancetiegui	100
+探测铁轨
 砂土	shatu	100
+砂土
 泥土	nitu	100
+泥土
 泥土	nitu	100
+泥土
 灰化土	huihuatu	100
+灰化土
 紫珀块	zipokuai	100
+紫珀块
 紫珀柱	zipozhu	100
+紫珀柱
 铁门	tiemen	100
+铁门
 蕨	jue	100
+蕨
 撅	jue	9
 大型蕨	daxingjue	100
+大型蕨
 高草丛	gaocaocong	100
+高草丛
 植物	zhiwu	100
+植物
 牡丹	mudan	100
+牡丹
 玫瑰丛	meiguicong	100
+玫瑰丛
 向日葵	xiangrikui	100
+向日葵
 丁香	dingxiang	100
+丁香
 龙蛋	longdan	100
+龙蛋
 附魔台	fumotai	100
+附魔台
 末地传送门	modichuansongmen	100
+末地传送门
 末地传送门框架	modichuansongmenkuangjia	100
+末地传送门框架
 末地传送门框架	modichuansongmen	9
 耕地	gengdi	100
+耕地
 制箭台	zhijiantai	100
+制箭台
 蒲公英	pugongying	100
+蒲公英
 菌索	junsuo	100
+菌索
 绒球葱	rongqiucong	100
+绒球葱
 兰花	lanhua	100
+兰花
 矢车菊	shicheju	100
+矢车菊
 蓝花美耳草	lanhuameiercao	100
+蓝花美耳草
 铃兰	linglan	100
+铃兰
 滨菊	bingju	100
+滨菊
 虞美人	yumeiren	100
+虞美人
 郁金香	yujinxiang	100
+郁金香
 凋灵玫瑰	diaolingmeigui	100
+凋灵玫瑰
 熔炉	ronglu	100
+熔炉
 玻璃	boli	100
+玻璃
 动力铁轨	donglitiegui	100
+动力铁轨
 草方块	caofangkuai	100
+草方块
 土径	tujing	100
+土径
 干草捆	gancaokun	100
+干草捆
 下界岩	xiajieyan	100
+下界岩
 灵魂沙	linghunsha	100
+灵魂沙
 浮冰	fubing	100
+浮冰
 蓝冰	lanbing	100
+蓝冰
 霜冰	shuangbing	100
+霜冰
 铁活板门	tiehuobanmen	100
+铁活板门
 唱片机	changpianji	100
+唱片机
 熔岩	rongyan	100
+熔岩
 发光地衣	faguangdiyi	100
+发光地衣
 拉杆	lagan	100
+拉杆
 荧石	yingshi	100
+荧石
 避雷针	bileizhen	100
+避雷针
 南瓜灯	nanguadeng	100
+南瓜灯
 金合欢原木	jinhehuanyuanmu	100
+金合欢原木
 深色橡木原木	shensexiangmuyuanmu	100
+深色橡木原木
 白桦原木	baihuayuanmu	100
+白桦原木
 丛林原木	conglinyuanmu	100
+丛林原木
 原木	yuanmu	100
+原木
 橡木原木	xiangmuyuanmu	100
+橡木原木
 云杉原木	yunshanyuanmu	100
+云杉原木
 岩浆块	yanjiangkuai	100
+岩浆块
 西瓜	xigua	100
+西瓜
 刷怪笼	shuaguailong	100
+刷怪笼
 虫蚀石砖	chongshishizhuan	100
+虫蚀石砖
 虫蚀雕纹石砖	chongshidiaowenshizhuan	100
+虫蚀雕纹石砖
 虫蚀	chongshi	100
+虫蚀
 裂纹石砖	liewenshizhuan	100
+裂纹石砖
 苔石砖	taishizhuan	100
+苔石砖
 石头	shitou	100
+石头
 音符盒	yinfuhe	100
+音符盒
 菌丝体	junsiti	100
+菌丝体
 下界砖块	xiajiezhuankuai	100
+下界砖块
 激活	jihuo	100
+激活
 下界反应器	xiajiefanyingqi	100
+下界反应器
 下界反应核	xiajiefanyinghe	100
+下界反应核
 红石火把	hongshihuoba	100
+红石火把
 灵魂火把	linghunhuoba	100
+灵魂火把
 黑曜石	heiyaoshi	100
+黑曜石
 煤矿石	meikuangshi	100
+煤矿石
 钻石矿石	zuanshikuangshi	100
+钻石矿石
 绿宝石矿石	lvbaoshikuangshi	100
+绿宝石矿石
 金矿石	jinkuangshi	100
+金矿石
 铁矿石	tiekuangshi	100
+铁矿石
 铜矿石	tongkuangshi	100
+铜矿石
 青金石矿石	qingjinshikuangshi	100
+青金石矿石
 红石矿石	hongshikuangshi	100
+红石矿石
 红宝石矿石	hongbaoshikuangshi	100
+红宝石矿石
 侦测器	zhenceqi	100
+侦测器
 活塞	huosai	100
+活塞
 黏性活塞	nianxinghuosai	100
+黏性活塞
 传送门	chuansongmen	100
+传送门
 海晶石砖	haijingshizhuan	100
+海晶石砖
 暗海晶石	anhaijingshi	100
+暗海晶石
 海晶石	haijingshi	100
+海晶石
 南瓜	nangua	100
+南瓜
 南瓜茎	nanguajing	100
+南瓜茎
 石英块	shiyingkuai	100
+石英块
 平滑	pinhua	100
+平滑
 铁轨	tiegui	100
+铁轨
 红色蘑菇	hongsemogu	100
+红色蘑菇
 绯红菌	feihongjun	100
+绯红菌
 诡异菌	guiyijun	100
+诡异菌
 红色蘑菇方块	hongsemogufangkuai	100
+红色蘑菇方块
 雕纹红砂岩	diaowenhongshayan	100
+雕纹红砂岩
 红砂岩	hongshayan	100
+红砂岩
 切制	qiezhi	100
+切制
 红石粉	hongshifen	100
+红石粉
 红石灯	hongshideng	100
+红石灯
 甘蔗	ganzhe	100
+甘蔗
 红沙	hongshi	100
+红沙
 砂岩	shayan	100
+砂岩
 树苗	shumiao	100
+树苗
 金合欢	jinhehuan	100
+金合欢
 深色橡	shensexiang	100
+深色橡
 深色橡木	shensexiangmu	100
+深色橡木
 白桦	baihua	100
+白桦
 丛林	congling	100
+丛林
 橡树	xiangshu	100
+橡树
 云杉	yunshan	100
+云杉
 海晶灯	haijingdeng	100
+海晶灯
 雪块	xuekuai	100
+雪块
 海绵	haimian	100
+海绵
 湿海绵	shihaimian	100
+湿海绵
 管珊瑚	guanshanhu	100
+管珊瑚
 脑纹珊瑚	naowenshanhu	100
+脑纹珊瑚
 气泡珊瑚	qipaoshanhu	100
+气泡珊瑚
 火珊瑚	huoshanhu	100
+火珊瑚
 鹿角珊瑚	lujiaoshanhu	100
+鹿角珊瑚
 失活的	shihuode	100
+失活的
 灌木	guanmu	100
+灌木
 海草	haicao	100
+海草
 海泡菜	haipaocai	100
+海泡菜
 海龟	haigui	100
+海龟
 蛋	dan	100
+蛋
 珊瑚扇	shanhushan	100
+珊瑚扇
 绊线	banxian	100
+绊线
 藤蔓	tengman	100
+藤蔓
 垂泪藤	chuileiteng	100
+垂泪藤
 缠怨藤	chanyuanteng	100
+缠怨藤
 睡莲	shuilian	100
+睡莲
 蜘蛛网	zhizhuwang	100
+蜘蛛网
 测重压力板	cezhongyaliban	100
+测重压力板
 地毯	ditan	100
+地毯
 带釉陶瓦	daiyoutaowa	100
+带釉陶瓦
 脚手架	jiaoshoujia	100
+脚手架
 砂轮	shalun	100
+砂轮
 制图台	zhitutai	100
+制图台
 灯笼	denglong	100
+灯笼
 灵魂灯笼	linghundenglong	100
+灵魂灯笼
 烟熏炉	yanxunlu	100
+烟熏炉
 讲台	jiangtai	100
+讲台
 甜浆果丛	tianjiangguocong	100
+甜浆果丛
 远古残骸	yuangucanhai	100
+远古残骸
 下界金矿石	xiajiejinkuangshi	100
+下界金矿石
 哭泣的黑曜石	kuqideheiyaoshi	100
+哭泣的黑曜石
 哭泣的黑曜石	heiyaoshi	9
 细雪	xixue	100
+细雪
 深板岩	shenbanyan	100
+深板岩
 深板岩瓦	shenbanyanwa	100
+深板岩瓦
 瓦墙	waqiang	100
+瓦墙
 斑驳的	banbode	100
+斑驳的
 锈蚀的	xiushide	100
+锈蚀的
 氧化的	yanghuade	100
+氧化的
 涂蜡	tula	100
+涂蜡
 铜	tong	100
+铜
 脱蜡	tuola	100
+脱蜡
 削皮	xuepi	100
+削皮
 蜡烛	lazhu	100
+蜡烛
 插上	chashang	100
+插上
 望远镜	wnagyuanjing	100
+望远镜
 碎片	suipian	100
+碎片
 块	kuai	100
+块
 母岩	muyan	100
+母岩
 簇	zu	100
+簇
 晶芽	jingya	100
+晶芽
 大型	daxing	100
+大型
 中型	zhongxing	100
+中型
 小型	xiaoxing	100
+小型
 凝灰岩	ninghuiyan	100
+凝灰岩
 方解石	fangjieshi	100
+方解石
 遮光	zheguang	100
+遮光
 之箭	zhijian	1000
 夜视	yeshi	100
+夜视
 隐身	yinshen	100
+隐身
 跳跃	tiaoyue	100
+跳跃
 抗火	kanghuo	100
+抗火
 迅捷	xunjie	100
+迅捷
 迟缓	chihuan	100
+迟缓
 喷溅	penjian	100
+喷溅
 水肺	shuifei	100
+水肺
 治疗	zhiliao	100
+治疗
 伤害	shanghai	100
+伤害
 剧毒	judu	100
+剧毒
 再生	zaisheng	100
+再生
 力量	liliang	100
+力量
 虚弱	xuruo	100
+虚弱
 飘浮	piaofu	100
+飘浮
 幸运	xingyun	100
+幸运
 衰变	shuaibian	100
+衰变
 神龟	shengui	100
+神龟
 缓降	huanjiang	100
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+缓降
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
 别人的世界	wodeshijie	1
 大炮	dapao	100
+大炮
 大炮做好了不在这放珍珠是什么意思	dapao	5
 多喝岩浆	duohe	5
 雷石东直放站	hongshizhongjiqi	5
