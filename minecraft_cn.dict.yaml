@@ -984,7 +984,6 @@ IX	jiu	9
 猫
 洞穴蜘蛛	dongxuezhizhu	100
 洞穴蜘蛛
-洞穴蜘蛛	zhuzhu	9
 蜘蛛	zhizhu	100
 蜘蛛
 鸡	ji	100
@@ -993,7 +992,6 @@ IX	jiu	9
 牛
 苦力怕	kulipa	100
 苦力怕
-苦力怕	creeper	9
 苦力怕	paxingzhe	9
 爬行者	paxingzhe	100
 爬行者
@@ -1005,7 +1003,6 @@ IX	jiu	9
 熊猫
 驴	lv	100
 驴
-驴	lu	0
 末影龙	moyinglong	100
 末影龙
 溺尸	nishi	100
@@ -1018,7 +1015,6 @@ IX	jiu	9
 末地水晶
 末影人	moyingren	100
 末影人
-末影人	ande	9
 末影螨	moyingman	100
 末影螨
 末影珍珠	moyingzhenzhu	100
@@ -1046,7 +1042,6 @@ IX	jiu	9
 河豚
 鲑鱼	guiyu	100
 鲑鱼
-鲑鱼	salmon	9
 热带鱼	redaiyu	100
 热带鱼
 美西螈	meixiyuan	100
@@ -1075,16 +1070,14 @@ IX	jiu	9
 铁傀儡
 拴绳	shuansheng	100
 拴绳
-拴绳结	shuansheng	100
+拴绳结	shuanshengjie	100
 拴绳结
-拴绳结	shuansheng	9
 滞留	zhiliu	100
 滞留
 滞留药水	zhiliuyaoshui	100
 滞留药水
 滞留药水	zlys	9
-滞留药水	zhiliu	9
-羊驼	yangtui	100
+羊驼	yangtuo	100
 羊驼
 行商羊驼	xingshangyangtuo	100
 行商羊驼
@@ -1092,7 +1085,6 @@ IX	jiu	9
 唾沫
 羊驼唾沫	yangtuotuomo	100
 羊驼唾沫
-羊驼唾沫	yangtuo	9
 岩浆怪	yanjiangguai	100
 岩浆怪
 骡	luo	100
@@ -1109,7 +1101,7 @@ IX	jiu	9
 幻翼
 猪	zhu	100
 猪
-掠夺者	lueduozhe	100
+掠夺者	lveduozhe	100
 掠夺者
 北极熊	beijixiong	100
 北极熊
@@ -1132,7 +1124,6 @@ IX	jiu	9
 骷髅
 骷髅马	kulouma	100
 骷髅马
-骷髅马	kulou	
 流浪者	liulangzhe	100
 流浪者
 史莱姆	shilaimu	100
@@ -1191,7 +1182,7 @@ IX	jiu	9
 傻子
 卫道士	weidaoshi	100
 卫道士
-商人	shangren	9
+商人
 流浪商人	liulangshangren	100
 流浪商人
 奸商	jianshang	100
@@ -1199,7 +1190,6 @@ IX	jiu	9
 流浪商人	jianshang	9
 女巫	nvwu	100
 女巫
-女巫	nuwu	9
 凋灵	diaoling	100
 凋灵
 凋灵骷髅	diaolingkulou	100
@@ -1212,33 +1202,26 @@ IX	jiu	9
 狼	lang	0
 经验球	jingyanqiu	100
 经验球
-经验球	jingyan	9
 附魔之瓶	fumozhiping	100
 附魔之瓶
-附魔之瓶	fumo	9
 僵尸疣猪兽	jiangshiyouzhushou	100
 僵尸疣猪兽
 僵尸	jiangshi	100
 僵尸
 僵尸马	jiangshima	100
 僵尸马
-僵尸马	jiangshi	9
 僵尸猪灵	jiangshizhuling	100
 僵尸猪灵
-僵尸猪灵	jiangshi	9
 僵尸村民	jiangshicunmin	100
 僵尸村民
-僵尸村民	jiangshi	9
 端口	duankou	100
 端口
 服务器	fuwuqi	100
 服务器
 末地城	modicheng	100
 末地城
-末地城	modi	9
 下界要塞	xiajieyaosai	100
 下界要塞
-下界要塞	xiajie	9
 林地府邸	lindifudi	100
 林地府邸
 神庙	shenmiao	100
@@ -1254,8 +1237,6 @@ IX	jiu	9
 堡垒遗迹
 废弃传送门	feiqichuansongmen	100
 废弃传送门
-Xbox	xbox	100
-Xbox
 输入	shuru	100
 输入
 结果	jieguo	100
@@ -1282,7 +1263,7 @@ Xbox
 工作台
 快捷栏	kuaijielan	100
 快捷栏
-镐	gao	100
+镐	gao	10000
 镐
 放大化	fangdahua	100
 放大化
@@ -1336,12 +1317,8 @@ Xbox
 空气
 苹果	pingguo	100
 苹果
-成年	chengnian	100
-成年
-成年美西螈	chengnian	9
-幼年	younian	100
-幼年
-幼年美西螈	younian	9
+成年美西螈
+幼年美西螈
 粉红色	fenhongse	100
 粉红色
 品红	pinhong	100
@@ -1357,7 +1334,6 @@ Xbox
 附魔金苹果	fumojinpingguo	100
 附魔金苹果
 附魔金苹果	jinpingguo	9
-附魔金苹果	fumo	8
 药箭	yaojian	100
 药箭
 旗帜	qizhi	100
@@ -1388,9 +1364,8 @@ Xbox
 渐淡
 半方形	banfangxing	100
 半方形
-Mojang徽标	mojanghuibiao	100
-Mojang徽标
-Mojang徽标	mojang	9
+Mojang 徽标	mojanghuibiao	100
+Mojang 徽标	mojang	9
 猪鼻	zhubi	100
 猪鼻
 菱形	lingxing	100
@@ -1477,7 +1452,6 @@ Mojang徽标	mojang	9
 橙色
 黄绿色	huanglvse	100
 黄绿色
-黄绿色	hls	9
 银色	yinse	100
 银色
 石首鱼	shishouyu	100
@@ -1558,15 +1532,14 @@ Mojang徽标	mojang	9
 胡萝卜
 金胡萝卜	jinhuluobo	100
 金胡萝卜
-金胡萝卜	huluobo	9
 木炭	mutan	100
 木炭
 锁链胸甲	suolianxiongjia	100
 锁链胸甲
 皮革外套	pigewaitao	100
 皮革外套
-钻石胸甲zuanshixiongjia	100	
-钻石胸甲zuanshixiongjia
+钻石胸甲	zuanshixiongjia	100
+钻石胸甲	zuanshixiongjia
 金胸甲	jinxiongjia	100
 金胸甲
 铁胸甲	tiexiongjia	100
@@ -1627,8 +1600,6 @@ Mojang徽标	mojang	9
 荧光墨囊	yingguangmonang	100
 荧光墨囊
 荧光物品展示框	yingguangwupinzhanshikuang	100
-荧光物品展示框
-荧光物品展示框	wupinzhanshikuang	100
 荧光物品展示框
 鸡蛋	jidan	100
 鸡蛋
@@ -2029,7 +2000,6 @@ Mojang徽标	mojang	9
 种子
 农作物	nongzuowu	100
 农作物
-草	cao	1000
 花	hua	100
 花
 生食	shengshi	100
@@ -2082,7 +2052,6 @@ Mojang徽标	mojang	9
 珊瑚
 珊瑚块	shanhukuai	100
 珊瑚块
-珊瑚块	shanhu	9
 珊瑚装饰	shanhuzhuangshi	100
 珊瑚装饰
 珊瑚装饰	shanhu	9
@@ -2102,8 +2071,6 @@ Mojang徽标	mojang	9
 杂项
 命令	mingling	100
 命令
-UI	ui	100
-UI
 皮肤包	pifubao	100
 皮肤包
 纹理包	wenlibao	100
@@ -2180,8 +2147,6 @@ UI
 马赛克
 竹板	zhuban	100
 竹板
-幽匿	youni	100
-幽匿
 幽匿感测体	youniganceti	100
 幽匿感测体
 校频幽匿感测体	jiaopinyouniganceti	100
@@ -2849,51 +2814,18 @@ UI
 神龟
 缓降	huanjiang	100
 缓降
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
+
+
+
+
+
+
+
+
+
+
+
+
 别人的世界	wodeshijie	1
 大炮	dapao	100
 大炮
