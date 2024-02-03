@@ -265,436 +265,370 @@ https://github.com/Kimiblock/rime-minecraft-dict	about	9
 天气状态
 天气状态	tian qi	9
 天气状态	tq	0
-雷阵雨	leizhenyu	100
+雷阵雨	lei zhen yu	100
 雷阵雨
 雷阵雨	lzy	9
-雷阵雨	thunder	9
-雷雨	leiyu	100
+雷雨	lei yu	100
 雷雨
 雷雨	ly	9
-雷雨	thunder	9
-白名单	baimingdan	100
+白名单	bai ming dan	100
 白名单
 白名单	bmd	9
-白名单	whitelist	9
-管理	guanli	100
+管理	guan li	100
 管理
-管理	op	0
-管理	gl	9
-验证	yanzheng	100
+验证	yan zheng	100
 验证
 验证	yz	9
-边界	bianjie	100
+边界	bian jie	100
 边界
 边界	bj	9
-经验值	jingyanzhi	100
+经验值	jing yan zhi	100
 经验值
-经验值	jingyan	100
-经验值
-经验值	jyz	9
-经验值	jy	0
-经验值	xp	9
-经验值	exp	0
-经验	jingyan	100
+经验	jing yan	100
 经验
-经验	exp	9
+经验值	jyz	9
 经验	jy	9
-剥夺	boduo	100
+剥夺	bo duo	100
 剥夺
 剥夺	bd	9
-变量	bianliang	100
+变量	bian liang	100
 变量
 变量	bl	9
-密钥	miyao	100
+密钥	mi yao	100
 密钥
 密钥	my	9
-权限	quanxian	100
+权限	quan xian	100
 权限
 权限	qx	9
-权限	permission	9
-磁盘	cipan	100
+聊天验证	liao tian yan zheng	100
+磁盘	ci pan	100
 磁盘
 手柄	shoubing	100
 手柄
-信标	xinbiao	100
+信标	xin biao	100
 信标
 信标	xb	9
-信标	beacon	9
-酿造台	niangzaotai	100
+酿造台	niang zao tai	100
 酿造台
 酿造台	nzt	9
-酿造台	brewing	9
-箱子	xiangzi	100
+箱子	xiang zi	100
 箱子
 箱子	xz	9
-箱子	chest	9
-大型箱子	daxingxiangzi	100
+大型	da xing	100
 大型箱子
-大型箱子	dxxz	9
-大型箱子	xiangzi	8
-大型箱子	xz	8
-大型箱子	chest	8
-合成	hecheng	100
+合成	he cheng	100
 合成
-合成	hc	9
-合成	crafting	9
-物品选栏	wupinxuanlan	100
+物品选栏	wu pin xuan lan	100
 物品选栏
-物品选栏	wpxl	9
-发射器	fasheqi	100
+发射器	fa she qi	100
 发射器
-发射器	touzhiqi	8
-发射器	fsq	9
-投掷器	touzhiqi	100
+投掷器	tou zhi qi	100
 投掷器
-投掷器	fasheqi	8
 投掷器	tzq	9
-等级要求	dengjiyaoqiu	100
+等级要求	deng ji yao qiu	100
 等级要求
 等级要求	djyq	9
-等级要求	levelreq	9
-青金石	qingjinshi	100
+青金石	qing jin shi	100
 青金石
 青金石	qjs	9
-青金石	qinjingshi	9
-青金石	qingjingshi	9
-青金石	qinjinshi	9
-末影箱	moyingxiang	100
+末影箱	mo ying xiang	100
 末影箱
 末影箱	myx	9
-熔炉	ronglu	100
+熔炉	rong lu	100
 熔炉
 熔炉	rl	9
-漏斗	loudou	100
+漏斗	lou dou	100
 漏斗
 漏斗	ld	9
-织布机	zhibuji	100
+织布机	zhi bu ji	100
 织布机
-矿车	kuangche	100
+矿车	kuang che	100
 矿车
-运输矿车	yunshukuangche	100
 运输矿车
-运输矿车	kuangche	9
-命令方块矿车	minglingfangkuaikuangche	100
 命令方块矿车
-命令方块矿车	minglingfangkuai	9
-命令方块矿车	kuangche	8
-命令方块矿车	minecart	8
-动力矿车	donglikuangche	100
+动力矿车	dong li kuang che	100
 动力矿车
-动力矿车	kuangche	9
-漏斗矿车	loudoukuangche	100
-漏斗矿车
-漏斗矿车	kuangche	9
-TNT矿车	tntkuangche	100
+TNT 矿车	tnt kuang che	100
 TNT 矿车
-TNT 矿车	tnt	0
-TNT 矿车	kuangche	9
-		
-修复和命名	xiufuhemingming	100
+修复和命名	xiu fu he ming ming	100
 修复和命名
 修复和命名	xfhmm	9
-昂贵	anggui	100
+昂贵	ang gui	100
 昂贵
-过于昂贵	guoyuanggui	100
+过于昂贵	guo yu ang gui	100
 过于昂贵
 过于昂贵	gyag	9
-祛魔	qumo	100
+祛魔	qu mo	100
 祛魔
 祛魔	qm	9
-修复和祛魔	xiufuhequmo	100
+修复和祛魔	xiu fu he qu mo	100
 修复和祛魔
 修复和祛魔	xfhqm	9
-切石机	qieshiji	100
+切石机	qie shi ji	100
 切石机
 切石机	qsj	9
-锻造台	duanzaotai	100
+锻造台	duan zao tai	100
 锻造台
 锻造台	dzt	9
-潜影盒	qianyinghe	100
+潜影盒	qian ying he	100
 潜影盒
 潜影盒	qyh	9
-木桶	mutong	100
+木桶	mu tong	100
 木桶
-一组	yizu	100
+一组	yi zu	100
 一组
-一组	yz	9
 铁	tie	100
 铁
-铁砧	tiezhen	100
+铁砧	tie zhen	100
 铁砧
-铁砧	tz	9
-铁砧	tie	1
-快速选择	kuaisuxuanze	100
+快速选择	kuai su xuan ze	100
 快速选择
-制作	zhizuo	100
+制作	zhi zuo	100
 制作
 制作	zz	9
-丢弃	diuqi	100
+丢弃	diu qi	100
 丢弃
 丢弃	dq	9
-编辑	bianji	100
+编辑	bian ji	100
 编辑
 编辑	bj	9
-等级	dengji	100
+等级	deng ji	100
 等级
-等级	dj	9
-新	xin	100
+新	xin	10000000000000
 新
-新	x	0
-配方书	peifangshu	100
+配方书	pei fang shu	100
 配方书
-配方书	pfs	9
-配方	peifang	100
+配方	pei fang	100
 配方
 配方	pf	9
-放置	fangzhi	100
+放置	fang zhi	100
 放置
-快速移动	kuaisuyidong	100
+快速移动	kuai su yi dong	100
 快速移动
 快速移动	ksyd	9
-可合成	kehecheng	100
+可合成	ke he cheng	100
 可合成
-移除	yichu	100
+移除	yi chu	100
 移除
-燃料	ranliao	100
+燃料	ran liao	100
 燃料
-重命名	chongmingming	100
+重命名	chong ming ming	100
 重命名
-槽位	caowei	100
+槽位	cao wei	100
 槽位
-标签页	biaoqianye	100
+标签页	biao qian ye	100
 标签页
-拿取	naqu	100
+拿取	na qu	100
 拿取
-快捷键	kuaijiejian	100
+快捷键	kuai jie jian	100
 快捷键
-动作	dongzuo	100
+动作	dong zuo	100
 动作
-绑定	bangding	100
+绑定	bang ding	100
 绑定
-默认设置	morenshezhi	100
+默认设置	mo ren she zhi	100
 默认设置
-默认	moren	100
+默认	mo ren	100
 默认
-按钮	anniu	100
+按钮	an niu	100
 按钮
-视角	shijiao	100
+视角	shi jiao	100
 视角
-控制	kongzhi	100
+控制	kong zhi	100
 控制
-熔岩湖	rongyanhu	100
+熔岩湖	rong yan hu	100
 熔岩湖
-混沌洞穴	hundundongxue	100
+洞穴	dong xue	100
+洞穴
+混沌洞穴	hun dun dong xue	100
 混沌洞穴
-探洞者的喜悦	tandongzhedexiyue	100
+探洞者的喜悦	tan dong zhe de xi yue	100
 探洞者的喜悦
 探洞者的喜悦	tdzdxy	9
-旱地	handi	100
+旱地	han di	100
 旱地
-空岛	kongdao	100
+空岛	kong dao	100
 空岛
 空岛	kd	9
-水世界	shuishijie	100
+水世界	shui shi jie	100
 水世界
-预设	yushe	100
+预设	yu she	100
 预设
-预设	preset	9
-预设	ys	9
-随机	suiji	100
+随机	sui ji	100
 随机
 随机	sj	9
-海平面	haipingmian	100
+海平面	hai ping mian	100
 海平面
-散布	sanbu	100
+散布	san bu	100
 散布
-洞穴	dongxue	100
+洞穴	dong xue	100
 洞穴
-地牢	dilao	100
+地牢	di lao	100
 地牢
-地牢	dl	9
-熔岩海	rongyanhai	100
+海	hai	100
 熔岩海
-废弃矿井	feiqikuangjing	100
+废弃矿井	fei qi kuang jing	100
 废弃矿井
-废弃矿井	feiqikuangkeng	100
-废弃矿井
-海底神殿	haidishendian	100
+废弃矿坑	fei qi kuang keng	100
+废弃矿坑
+海底神殿	hai di shen dian	100
 海底神殿
-海底神殿	hdsd	9
-海底神殿	monuments	9
-峡谷	xiagu	100
+峡谷	xia gu	100
 峡谷
 峡谷	xg	9
-要塞	yaosai	100
+要塞	yao sai	100
 要塞
 要塞	ys	9
-神殿	shendian	100
+神殿	shen dian	100
 神殿
 神殿	sd	9
-海底废墟	haidifeixu	100
+海底废墟	hai di fei xu	100
 海底废墟
 海底废墟	hdfx	9
-村庄	cunzhuang	100
+村庄	cun zhuang	100
 村庄
 村庄	cz	9
-湖泊	hupo	100
+湖泊	hu po	100
 湖泊
 湖泊	hp	9
-湖泊密度	hupomidu	100
+湖泊密度	hu po mi du	100
 湖泊密度
-湖泊密度	hupo	9
 湖泊密度	hpmd	9
-湖泊密度	hp	8
-超平坦	chaopingtan	100
+超平坦	chao ping tan	100
 超平坦
 超平坦	cpt	9
-奖励箱	jianglixiang	100
+奖励箱	jiang li xiang	100
 奖励箱
-奖励箱	xiangzi	7
+奖励箱	xiang zi	7
 奖励箱	jlx	9
-重生	chongsheng	100
+重生	chong sheng	100
 重生
 重生	cs	9
-重生半径	chongshengbanjing	100
+重生半径	chong sheng ban jing	100
 重生半径
-重生半径	chongsheng	9
-重生半径	cs	8
-火焰蔓延	huoyanmanyan	100
+火焰蔓延	huo yan man yan	100
 火焰蔓延
 火焰蔓延	hymy	9
-火焰蔓延	huoyan	8
-火焰蔓延	hy	8
-掉落物	diaoluowu	100
+掉落物	diao luo wu	100
 掉落物
-掉落物	diaoluo	9
+掉落物	diao luo	9
 掉落物	dlw	9
-掉落	diaoluo	100
+掉落	diao luo	100
 掉落
 掉落	dl	9
-死亡不掉落	siwangbudiaoluo	100
+死亡不掉落	si wang bu diao luo	100
 死亡不掉落
 死亡不掉落	swbdl	9
-死亡不掉落	keepinventory	100
-死亡不掉落
-死亡后保留物品栏	siwanghoubaoliuwupinlan	100
+死亡后保留物品栏	si wang hou bao liu wu pin lan	100
 死亡后保留物品栏
-死亡后保留物品栏	siwangbudiaoluo	9
-生命自然恢复	shengmingziranhuifu	100
+生命自然恢复	sheng ming zi ran hui fu	100
 生命自然恢复
 生命自然恢复	smzrhf	9
-生命自然恢复	shengming	8
-TNT	tnt	100
-TNT
-TNT 爆炸	tntbaozha	100
+TNT 爆炸	tnt bao zha	100
 TNT 爆炸
-生物生成	shengwushengcheng	100
+生物生成	sheng wu sheng cheng	100
 生物生成
 生物生成	swsc	9
-生物生成	shengwu	9
-生物破坏	shengwupohuai	100
+生物破坏	sheng wu po huai	100
 生物破坏
 生物破坏	swph	9
-生物破坏	mobgrief	100
-生物破坏
-教育版	jiaoyuban	100
+教育版	jiao yu ban	100
 教育版
-非生物实体掉落	feishengwushitidiaoluo	100
+非生物实体掉落	fei sheng wu shi ti diao luo	100
 非生物实体掉落
-实验性	shiyanxing	100
+实验性	shi yan xing	100
 实验性
 实验性	syx	9
-玩法	wanfa	100
+玩法	wan fa	100
 玩法
 玩法	wf	9
-爬行	paxing	100
+爬行	pa xing	100
 爬行
-洞穴与山崖	dongxueyushanya	100
+洞穴与山崖	dong xue yu shan ya	100
 洞穴与山崖
-旁观模式	pangguanmoshi	100
+旁观模式	pang guan mo shi	100
 旁观模式
+旁观者模式
 旁观模式	pgms	9
-首选项	shouxuanxiang	100
+首选项	shou xuan xiang	100
 首选项
 首选项	sxx	9
-初始地图	chushiditu	100
+初始地图	chu shi di tu	100
 初始地图
 初始地图	csdt	9
-创建	chuangjian	100
+创建	chuang jian	100
 创建
 创建	cj	9
-删除	shanchu	100
+删除	shan chu	100
 删除
-冒险	maoxian	100
+冒险	mao xian	100
 冒险
 冒险	mx	9
-持久性	chijiuxing	100
+持久性	chi jiu xing	100
 持久性
 持久性	cjx	9
-项目	xiangmu	100
+项目	xiang mu	100
 项目
-会话	huihua	100
+会话	hui hua	100
 会话
-多人游戏	duorenyouxi	100
+多人游戏	duo ren you xi	100
 多人游戏
 多人游戏	dryx	9
-地形	dixing	100
+地形	di xing	100
 地形
 地形	dx	9
-坐标	zuobiao	100
+坐标	zuo biao	100
 坐标
 坐标	zb	9
-随机游戏刻	suijiyouxike	100
+随机游戏刻	sui ji you xi ke	100
 随机游戏刻
-随机刻	suijike	100
+随机刻	sui ji ke	100
 随机刻
 刻	ke	100
 刻
-模拟距离	monijuli	100
+模拟距离	mo ni ju li	100
 模拟距离
-主菜单	zhucaidan	100
+主菜单	zhu cai dan	100
 主菜单
-好友	haoyou	100
+好友	hao you	100
 好友
-成员	chengyuan	100
+成员	cheng yuan	100
 成员
 成员	cy	9
-封禁	fengjin	100
+封禁	feng jin	100
 封禁
 封禁	fj	9
-射杀	shesha	100
+射杀	she sha	100
 射杀
-仙人掌	xianrenzhang	100
+仙人掌	xian ren zhang	100
 仙人掌
 仙人掌	xrz	9
-淹死	yansi	100
+淹死	yan si	100
 淹死
-逃离	taoli	100
+逃离	tao li	100
 逃离
-爆炸	baozha	100
+爆炸	bao zha	100
 爆炸
-炸死	zhasi	100
+炸死	zha si	100
 炸死
-落地过猛	luodiguomeng	100
+落地过猛	luo di guo meng	100
 落地过猛
-压扁	yabian	100
+压扁	ya bian	100
 压扁
-火球	huoqiu	100
+火球	huo qiu	100
 火球
-随着一声巨响消失了	suizheyishengjuxiangxiaoshile	100
 随着一声巨响消失了
-感受到了动能	ganshoudaoledongneng	100
 感受到了动能
-死了	sile	100
+死了	si le	100
 死了
-魔法	mofa	100
+魔法	mo fa	100
 魔法
-浴火焚身	yuhuofenshen	100
+浴火焚身	yu huo fen shen	100
 浴火焚身
 浴火焚身	yhfs	9
-踏入	taru	100
+踏入	ta ru	100
 踏入
-战斗	zhandou	100
+战斗	zhan dou	100
 战斗
 窒息	zhixi	100
 窒息
@@ -2483,8 +2417,6 @@ Mojang 徽标	mojang	9
 铁活板门
 唱片机	changpianji	100
 唱片机
-熔岩	rongyan	100
-熔岩
 发光地衣	faguangdiyi	100
 发光地衣
 拉杆	lagan	100
@@ -2794,7 +2726,8 @@ Mojang 徽标	mojang	9
 红石脉冲
 循环电路
 选择器
-
+Java 版
+基岩版
 
 
 
