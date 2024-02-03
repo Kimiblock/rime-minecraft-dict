@@ -56,240 +56,214 @@ https://github.com/Kimiblock/rime-minecraft-dict	about	9
 深蓝色
 深绿	shen lv	100
 深绿色
-湖蓝色	hulanse	100
+湖蓝	hu lan	100
 湖蓝色
-深红色	shenhongse	100
+深红	shen hong	100
 深红色
-紫色	zise	100
+紫色	zi se	100
 紫色
-金色	jinse	100
+金色	jin se	100
 金色
-灰色	huise	100
+灰色	hui se	100
 灰色
-深灰色	shenhuise	100
+深灰	shen hui	100
 深灰色
-蓝色	lanse	100
+蓝色	lan se	100
 蓝色
-绿色	lvse	100
+绿色	lv se	100
 绿色
-绿色	luse	100
+绿色	lu se	100
 绿色
-天蓝色	tianlanse	100
+天蓝	tian lan	100
 天蓝色
-红色	hongse	100
+红色	hong se	100
 红色
-浅紫色	qianzise	100
+浅紫	qian zi	100
 浅紫色
-黄色	huangse	100
+黄色	huang se	100
 黄色
-白色	baise	100
+白色	bai se	100
 白色
-方块类型	fangkuaileixing	100
+方块类型	fang kuai lei xing	100
 方块类型
-脉冲	maichong	100
+脉冲	mai chong	100
 脉冲
-连锁	liansuo	100
+连锁	lian suo	100
 连锁
-循环	xunhuan	100
+循环	xun huan	100
 循环
-条件	tiaojian	100
+条件	tiao jian	100
 条件
-条件制约	tiaojianzhiyue	100
+条件制约	tiao jian zhi yue	100
 条件制约
-不受制约	bushouzhiyue	100
+不受制约	bu shou zhi yue	100
 不受制约
-红石控制	hongshikongzhi	100
+红石控制	hong shi kong zhi	100
 红石控制
-需要红石	xuyaohongshi	100
+需要红石	xu yao hong shi	100
 需要红石
-保持开启	baochikaiqi	100
+保持开启	bao chi kai qi	100
 保持开启
-延迟游戏刻数	yanchiyouxikeshu	100
+延迟游戏刻数	yan chi you xi ke shu	100
 延迟游戏刻数
-在首个延迟时执行	zaishougeyanchishizhixing	100
+在首个延迟时执行	zai shou ge yan chi shi zhi xing	100
 在首个延迟时执行
-悬浮说明	xuanfushuoming	100
+悬浮说明	xuan fu shuo ming	100
 悬浮说明
-命令方块	minglingfangkuai	100
+命令方块	ming ling fang kuai	100
 命令方块
-昼夜更替	zhouyegengti	100
+昼夜更替	zhou ye geng ti	100
 昼夜更替
-所有玩家	suoyouwanjia	100
+所有玩家	suo you wan jia	100
 所有玩家
-所有玩家	sywj	9
-所有实体	suoyoushiti	100
+所有实体	suo you shi ti	100
 所有实体
 所有实体	syst	9
-最近的玩家	zuijindewanjia	100
+最近的玩家	zui jin de wan jia	100
 最近的玩家
-最近的玩家	zuijinwanjia	100
-最近的玩家
-最近的玩家	zywj	9
-随机玩家	suijiwanjia	100
+随机玩家	sui ji wan jia	100
 随机玩家
 随机玩家	sjwj	9
-数据标签	shujubiaoqian	100
+数据标签	shu ju biao qian	100
 数据标签
 数据标签	sjbq	9
-命名空间	mingmingkongjian	100
+命名空间	ming ming kong jian	100
 命名空间
 命名空间	mmkj	9
-区块	qukuai	100
+区块	qu kuai	100
 区块
+区块加载
 区块	qk	9
-游戏模式	youximoshi	100
+游戏模式	you xi mo shi	100
 游戏模式
 游戏模式	yxms	9
-NPC	npc	100
-NPC
-附魔	fumo	100
+附魔	fu mo	100
 附魔
 附魔	fm	9
-附魔	enchant	9
-实体数据	shitishuju	100
+实体数据	shi ti shu ju	100
 实体数据
 实体数据	stsj	100
-实体数据
-记分板	jifenban	100
+记分板	ji fen ban	100
 记分板
 记分板	jfb	100
 记分板
-迷雾	miwu	100
-迷雾
-迷雾	fog	100
+迷雾	mi wu	100
 迷雾
 迷雾	mw	9
-作弊	zuobi	100
-作弊
-作弊	cheat	100
+作弊	zuo bi	100
 作弊
 作弊	zb	9
 服主	fuzhu	100
 服主
 服主	fz	9
-服主	op	100
-服主
-游戏规则	youxiguize	100
-游戏规则
-游戏规则	gamerule	100
+游戏规则	you xi gui ze	100
 游戏规则
 游戏规则	yxgz	9
-布尔值	buerzhi	100
+布尔值	bu er zhi	100
 布尔值
-布尔值	bool	100
-布尔值
-维度	weidu	100
+维度	wei du	100
 维度
 维度	wd	9
-维度	dimension	100
-维度
-选择器	xuanzeqi	100
+选择器	xuan ze qi	100
 选择器
 选择器	xzq	9
-UUID	uuid	100
-UUID
-像素	xiangsu	100
+像素	xiang su	100
 像素
 像素	xs	9
-筛选器	shaixuanqi	100
+筛选器	shai xuan qi	100
 筛选器
-创造模式	chuangzaomoshi	100
+创造模式	chuang zao mo shi	100
 创造模式
-创造	chuangzao	100
+创造	chuang zao	100
 创造
-结构	jiegou	100
+结构	jie gou	100
 结构
-生物群系	shengwuqunxi	100
+群系	qun xi	100
+群系
+生物	sheng wu	100
+生物
 生物群系
 生物群系	swqx	9
-生物群系	biome	9
-骑乘	qicheng	100
+骑乘	qi cheng	100
 骑乘
 骑乘	qc	9
-骑手	qishou	100
+骑手	qi shou	100
 骑手
 骑手	qs	0
-自动保存	zidongbaocun	100
+自动保存	zi dong bao cun	100
 自动保存
 自动保存	zdbc	9
-常加载区域	changjiazaiquyu	100
+常加载区域	chang jia zai qu yu	100
 常加载区域
 常加载区域	cjzqy	9
-队伍	duiwu	100
+队伍	dui wu	100
 队伍
-队伍	team	0
 队伍	dw	9
-视野	shiye	100
+视野	shi ye	100
 视野
-视野	fov	0
-种子	zhongzi	100
+种子	zhong zi	100
 种子
 种子	zz	9
-生成	shengcheng	100
+生成	sheng cheng	100
 生成
 生成	sc	9
-生成点	shengchengdian	100
+生成点	sheng cheng dian	100
 生成点
 生成点	scd	9
-出生点	chushengdian	100
+出生点	chu sheng dian	100
 出生点
-出生点	csd	9
-重生点	chongshengdian	100
+重生点	chong sheng dian	100
 重生点
 重生点	csd	9
-传送	chuansong	100
+传送	chuan song	100
 传送
-传送	cs	100
-传送
-传送	teleport	9
-扩散	kuosan	100
+扩散	kuo san	100
 扩散
 扩散	ks	9
-统计信息	tongjixinxi	100
+统计信息	tong ji xin xi	100
 统计信息
 统计信息	tjxx	9
-参数	canshu	100
+参数	can shu	100
 参数
-方块跟踪	fangkuaigenzong	100
+方块跟踪	fang kuai gen zong	100
 方块跟踪
 方块跟踪	fkgz	9
-方块	fangkuai	100
+方块	fang kuai	100
 方块
-召唤	zhaohuan	100
+召唤	zhao huan	100
 召唤
-生成	shengcheng	100
+生成	sheng cheng	100
 生成
-对象	duixiang	100
+对象	dui xiang	100
 对象
-标签	biaoqian	100
+标签	biao qian	100
 标签
-字符串	zifuchuan	100
+字符串	zi fu chuan	100
 字符串
-终为白日	zhongweibairi	100
+终为白日	zhong wei bai ri	100
 终为白日
 终为白日	zwbr	9
-触发器	chufaqi	100
+触发器	chu fa qi	100
 触发器
-光照	guangzhao	100
+光照	guang zhao	100
 光照
 光照	gz	9
-功能域	gongnengyu	100
+功能域	gong neng yu	100
 功能域
 功能域	gny	9
-晴天	qingtian	100
+晴天	qing tian	100
 晴天
-雨天	yutian	100
+雨天	yu tian	100
 雨天
-雷暴	leibao	100
+雷暴	lei bao	100
 雷暴
-天气	tianqi	100
+天气	tian qi	100
 天气
-天气更替	tianqigengti	100
+天气更替	tian qi geng ti	100
 天气更替
-天气更替	tianqi	9
-天气状态	tianqizhuangtai	100
+天气状态	tian qi zhuang tai	100
 天气状态
-天气状态	tianqi	9
+天气状态	tian qi	9
 天气状态	tq	0
 雷阵雨	leizhenyu	100
 雷阵雨
@@ -2817,7 +2791,9 @@ Mojang 徽标	mojang	9
 缓降
 
 
-
+红石脉冲
+循环电路
+选择器
 
 
 
