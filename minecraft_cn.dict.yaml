@@ -1818,96 +1818,95 @@ Mojang 徽标	mojang	9
 甜浆果
 谜之炖菜	mi zhi dun cai	100
 谜之炖菜
-细雪桶	xixuetong	100
+细雪桶	xi xue tong	100
 细雪桶
-沉思	chensi	100
+沉思	chen si	100
 沉思
-歌颂	gesong	100
+歌颂	ge song	100
 歌颂
-寻觅	xunmi	100
+寻觅	xun mi	100
 寻觅
-感受	ganshou	100
+感受	gan shou	100
 感受
-仰慕	yangmu	100
+仰慕	yang mu	100
 仰慕
-呼唤	huhuan	100
+呼唤	hu huan	100
 呼唤
-憧憬	chongjing	100
+憧憬	chong jing	100
 憧憬
-想象	xiangxiang	100
+想象	xiang xiang	100
 想象
-木板	muban	100
+木板	mu ban	100
 木板
 墙	qiang	100
 墙
-栅栏	zhalan	100
+栅栏	zha lan	100
 栅栏
-栅栏门	zhalanmen	100
+栅栏门	zha lan men	100
 栅栏门
-栅栏门	zhalan	9
-楼梯	louti	100
+栅栏门	zha lan	9
+楼梯	lou ti	100
 楼梯
-玻璃板	boliban	100
+玻璃板	bo li ban	100
 玻璃板
-权限方块	quanxianfangkuai	100
+权限方块	quan xian fang kuai	100
 权限方块
-台阶	taijie	100
+台阶	tai jie	100
 台阶
-石砖	shizhuan	100
+石砖	shi zhuan	100
 石砖
-砂岩	shayan	100
+砂岩	sha yan	100
 砂岩
-羊毛	yangmao	100
+羊毛	yang mao	100
 羊毛
-羊毛地毯	yangmaoditan	100
+羊毛地毯	yang mao di tan	100
 羊毛地毯
-羊毛地毯	yangmao	9
-混凝土粉末	hunningtufenmo	100
+混凝土粉末	hun ning tu fen mo	100
 混凝土粉末
-混凝土粉末	hunningtu	9
-混凝土	hunningtu	100
+混凝土粉末	hun ning tu	9
+混凝土	hun ning tu	100
 混凝土
-陶瓦	taowa	100
+陶瓦	tao wa	100
 陶瓦
-带釉陶瓦	daiyoutaowa	100
+带釉陶瓦	dai you tao wa	100
 带釉陶瓦
-矿石	kuangshi	100
+矿石	kuang shi	100
 矿石
-石头	shitou	100
+石头	shi tou	100
 石头
-原木	yuanmu	100
+原木	yuan mu	100
 原木
-树叶	shuye	100
+树叶	shu ye	100
 树叶
-树苗	shumiao	100
+树苗	shu miao	100
 树苗
-种子	zhongzi	100
+种子	zhong zi	100
 种子
-农作物	nongzuowu	100
+农作物	nong zuo wu	100
 农作物
 花	hua	100
 花
-生食	shengshi	100
+生食	sheng shi	100
 生食
-熟食	shushi	100
+熟食	shu shi	100
 熟食
-其他食物	qitashiwu	100
+其他食物	qi ta shi wu	100
 其他食物
-蘑菇	mogu	100
+蘑菇	mo gu	100
 蘑菇
-虫蚀石头	chongshishitou	100
+虫蚀石头	chong shi shi tou	100
 虫蚀石头
-刷怪蛋	shuaguaidan	100
+刷怪蛋	shua guai dan	100
 刷怪蛋
-头盔	toukui	100
+头盔	tou kui	100
 头盔
-胸甲	xiongjia	100
+胸甲	xiong jia	100
 胸甲
-护腿	hutui	100
+护腿	hu tui	100
 护腿
-靴子	xuezi	100
+靴子	xue zi	100
 靴子
-马铠	makai	100
+马铠	ma kai	100
 马铠
 剑	jian	100
 剑
@@ -1919,125 +1918,126 @@ Mojang 徽标	mojang	9
 锹
 锄	chu	100
 锄
-喷溅药水	penjianyaoshui	100
+喷溅药水	pen jian yao shui	100
 喷溅药水
-滞留药水	zhiliuyaoshui	100
+滞留药水	zhi liu yao shui	100
 滞留药水
-黑板	heiban	100
+黑板	hei ban	100
 黑板
-生物头颅	shengwutoulu	100
+生物头颅	sheng wu tou lu	100
 生物头颅
-铁轨	tiegui	100
+铁轨	tie gui	100
 铁轨
-压力板	yaliban	100
+压力板	ya li ban	100
 压力板
-活板门	huobanmen	100
+活板门	huo ban men	100
 活板门
-珊瑚	shanhu	100
+珊瑚	shan hu	100
 珊瑚
-珊瑚块	shanhukuai	100
+珊瑚块	shan hu kuai	100
 珊瑚块
-珊瑚装饰	shanhuzhuangshi	100
+珊瑚装饰	shan hu zhuang shi	100
 珊瑚装饰
-珊瑚装饰	shanhu	9
-木头	mutou	100
+珊瑚装饰	shan hu	9
+木头	mu tou	100
 木头
-旗帜图案	qizhituan	100
+旗帜图案	qi zhi tu an	100
 旗帜图案
-下界疣块	xiajieyoukuai	100
+下界疣块	xia jie you kuai	100
 下界疣块
-诡异疣块	guiyiyoukuai	100
+诡异疣	gui yi you	100
+诡异疣
+诡异疣块	gui yi you kuai	100
 诡异疣块
-蜡烛	lazhu	100
+蜡烛	la zhu	100
 蜡烛
-山羊角	shanyangjiao	100
+山羊角	shan yang jiao	100
 山羊角
-杂项	zaxiang	100
+杂项	za xiang	100
 杂项
-命令	mingling	100
+命令	ming ling	100
 命令
-皮肤包	pifubao	100
+皮肤包	pi fu bao	100
 皮肤包
-纹理包	wenlibao	100
+纹理包	wen li bao	100
 纹理包
-混搭包	hundabao	100
+混搭包	hun da bao	100
 混搭包
-资源包	ziyuanbao	100
+资源包	zi yuan bao	100
 资源包
-自动跳跃	zidongtiaoyue	100
+自动跳跃	zi dong tiao yue	100
 自动跳跃
-悬挂式	xuanguashi	100
+悬挂式	xuan gua shi	100
 悬挂式
-垂钓	chuidiao	100
+垂钓	chui diao	100
 垂钓
-陶片	taopian	100
+陶片	tao pian	100
 陶片
 竹	zhu	100
 竹
-竹筏	zhufa	100
+竹筏	zhu fa	100
 竹筏
-竹筏	zhu	9
-佳酿	jianiang	100
+佳酿	jia niang	100
 佳酿
-利刃	liren	100
+利刃	li ren	100
 利刃
-樱花	yinghua	100
+樱花	ying hua	100
 樱花
-刷子	shuazi	100
+刷子	shua zi	100
 刷子
-烈焰	lieyan	100
+烈焰	lie yan	100
 烈焰
-木门	mumen	100
+木门	mu men	100
 木门
-运输	yunshu	100
+运输	yun shu	100
 运输
-运输船	yunshuchuan	100
+运输船	yun shu chuan	100
 运输船
-危机	weiji	100
+危机	wei ji	100
 危机
-探险	tanxian	100
+探险	tan xian	100
 探险
-挚友	zhiyou	100
+挚友	zhi you	100
 挚友
-爱心	aixin	100
+爱心	ai xin	100
 爱心
-心碎	xinsui	100
+心碎	xin sui	100
 心碎
-狼嚎	langhao	100
+狼嚎	lang hao	100
 狼嚎
-采矿	caikuang	100
+采矿	cai kuang	100
 采矿
-悲恸	beitong	100
+悲恸	bei tong	100
 悲恸
-富饶	furao	100
+富饶	fu rao	100
 富饶
-珍宝	zhenbao	100
+珍宝	zhen bao	100
 珍宝
-麦捆	maikun	100
+麦捆	mai kun	100
 麦捆
-树荫	shuyin	100
+树荫	shu yin	100
 树荫
-护甲值	hujiazhi	100
+护甲值	hu jia zhi	100
 护甲值
-铸锭	zhuding	100
+铸锭	zhu ding	100
 铸锭
-晶体	jingti	100
+晶体	jing ti	100
 晶体
-锻造	duanzao	
-竹块	zhukuai	100
+锻造	duan zao
+竹块	zhu kuai	100
 竹块
-竹按钮	zhuanniu	100
+竹按钮	zhu an niu	100
 竹按钮
-马赛克	masaike	100
+马赛克	ma sai ke	100
 马赛克
-竹板	zhuban	100
+竹板	zhu ban	100
 竹板
-幽匿感测体	youniganceti	100
+幽匿感测体	you ni gan ce ti	100
 幽匿感测体
-校频幽匿感测体	jiaopinyouniganceti	100
+校频幽匿感测体	jiao pin you ni gan ce ti	100
 校频幽匿感测体
-樱花木	yinghuamu	
-樱花树苗	yinghuashumiao	100
+樱花木	ying hua mu
+樱花树苗	ying hua shu miao	100
 樱花树苗
 雕纹书架	diaowenshujia	100
 雕纹书架
