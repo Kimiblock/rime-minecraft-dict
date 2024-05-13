@@ -1,10 +1,10 @@
 # rime-minecraft-dict
 
-[Dict source](https://www.mcbbs.net/thread-682370-1-1.html)
+[Dict source]([https://www.mcbbs.net/thread-682370-1-1.html](https://github.com/Spectrollay/mclang_cn))
 
 ---
 
-一个为 Minecraft 打造的 Rime 拼音词典.
+一个为 Minecraft 打造的 Rime 词典, 为拼音优化.
 
 # 安装与使用
 
