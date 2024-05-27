@@ -1,6 +1,6 @@
 # rime-minecraft-dict
 
-[Dict source](https://www.mcbbs.net/thread-682370-1-1.html)
+[Dict source](https://github.com/Spectrollay/mclang_cn)
 
 ---
 
