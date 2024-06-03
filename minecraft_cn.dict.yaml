@@ -23,7 +23,6 @@ Minecraft	mc	100
 光影
 启动器	qi dong qi	100
 启动器
-启动器	launcher	9
 GalactiCraft	xing xi	100
 当个创世神	mc	9
 最终用户许可协议	eula	9
@@ -117,28 +116,21 @@ GalactiCraft	xing xi	100
 所有玩家
 所有实体	suo you shi ti	100
 所有实体
-所有实体	syst	9
 最近的玩家	zui jin de wan jia	100
 最近的玩家
 随机玩家	sui ji wan jia	100
 随机玩家
-随机玩家	sjwj	9
 数据标签	shu ju biao qian	100
 数据标签
-数据标签	sjbq	9
 命名空间	ming ming kong jian	100
 命名空间
-命名空间	mmkj	9
 区块	qu kuai	100
 区块
 区块加载
-区块	qk	9
 游戏模式	you xi mo shi	100
 游戏模式
-游戏模式	yxms	9
 附魔	fu mo	100
 附魔
-附魔	fm	9
 实体数据	shi ti shu ju	100
 实体数据
 实体数据	stsj	100
@@ -148,27 +140,20 @@ GalactiCraft	xing xi	100
 记分板
 迷雾	mi wu	100
 迷雾
-迷雾	mw	9
 作弊	zuo bi	100
 作弊
-作弊	zb	9
 服主	fuzhu	100
 服主
-服主	fz	9
 游戏规则	you xi gui ze	100
 游戏规则
-游戏规则	yxgz	9
 布尔值	bu er zhi	100
 布尔值
 维度	wei du	100
 维度
-维度	wd	9
 选择器	xuan ze qi	100
 选择器
-选择器	xzq	9
 像素	xiang su	100
 像素
-像素	xs	9
 筛选器	shai xuan qi	100
 筛选器
 创造模式	chuang zao mo shi	100
@@ -182,51 +167,39 @@ GalactiCraft	xing xi	100
 生物	sheng wu	100
 生物
 生物群系
-生物群系	swqx	9
 骑乘	qi cheng	100
 骑乘
-骑乘	qc	9
 骑手	qi shou	100
 骑手
 骑手	qs	0
 自动保存	zi dong bao cun	100
 自动保存
-自动保存	zdbc	9
 常加载区域	chang jia zai qu yu	100
 常加载区域
-常加载区域	cjzqy	9
 队伍	dui wu	100
 队伍
-队伍	dw	9
 视野	shi ye	100
 视野
 种子	zhong zi	100
 种子
-种子	zz	9
 生成	sheng cheng	100
 生成
-生成	sc	9
 生成点	sheng cheng dian	100
 生成点
-生成点	scd	9
 出生点	chu sheng dian	100
 出生点
 重生点	chong sheng dian	100
 重生点
-重生点	csd	9
 传送	chuan song	100
 传送
 扩散	kuo san	100
 扩散
-扩散	ks	9
 统计信息	tong ji xin xi	100
 统计信息
-统计信息	tjxx	9
 参数	can shu	100
 参数
 方块跟踪	fang kuai gen zong	100
 方块跟踪
-方块跟踪	fkgz	9
 方块	fang kuai	100
 方块
 召唤	zhao huan	100
@@ -241,15 +214,12 @@ GalactiCraft	xing xi	100
 字符串
 终为白日	zhong wei bai ri	100
 终为白日
-终为白日	zwbr	9
 触发器	chu fa qi	100
 触发器
 光照	guang zhao	100
 光照
-光照	gz	9
 功能域	gong neng yu	100
 功能域
-功能域	gny	9
 晴天	qing tian	100
 晴天
 雨天	yu tian	100
@@ -262,43 +232,30 @@ GalactiCraft	xing xi	100
 天气更替
 天气状态	tian qi zhuang tai	100
 天气状态
-天气状态	tian qi	9
-天气状态	tq	0
 雷阵雨	lei zhen yu	100
 雷阵雨
-雷阵雨	lzy	9
 雷雨	lei yu	100
 雷雨
-雷雨	ly	9
 白名单	bai ming dan	100
 白名单
-白名单	bmd	9
 管理	guan li	100
 管理
 验证	yan zheng	100
 验证
-验证	yz	9
 边界	bian jie	100
 边界
-边界	bj	9
 经验值	jing yan zhi	100
 经验值
 经验	jing yan	100
 经验
-经验值	jyz	9
-经验	jy	9
 剥夺	bo duo	100
 剥夺
-剥夺	bd	9
 变量	bian liang	100
 变量
-变量	bl	9
 密钥	mi yao	100
 密钥
-密钥	my	9
 权限	quan xian	100
 权限
-权限	qx	9
 聊天验证	liao tian yan zheng	100
 磁盘	ci pan	100
 磁盘
@@ -306,13 +263,10 @@ GalactiCraft	xing xi	100
 手柄
 信标	xin biao	100
 信标
-信标	xb	9
 酿造台	niang zao tai	100
 酿造台
-酿造台	nzt	9
 箱子	xiang zi	100
 箱子
-箱子	xz	9
 大型	da xing	100
 大型箱子
 合成	he cheng	100
@@ -323,22 +277,16 @@ GalactiCraft	xing xi	100
 发射器
 投掷器	tou zhi qi	100
 投掷器
-投掷器	tzq	9
 等级要求	deng ji yao qiu	100
 等级要求
-等级要求	djyq	9
 青金石	qing jin shi	100
 青金石
-青金石	qjs	9
 末影箱	mo ying xiang	100
 末影箱
-末影箱	myx	9
 熔炉	rong lu	100
 熔炉
-熔炉	rl	9
 漏斗	lou dou	100
 漏斗
-漏斗	ld	9
 织布机	zhi bu ji	100
 织布机
 矿车	kuang che	100
@@ -351,27 +299,20 @@ TNT 矿车	tnt kuang che	100
 TNT 矿车
 修复和命名	xiu fu he ming ming	100
 修复和命名
-修复和命名	xfhmm	9
 昂贵	ang gui	100
 昂贵
 过于昂贵	guo yu ang gui	100
 过于昂贵
-过于昂贵	gyag	9
 祛魔	qu mo	100
 祛魔
-祛魔	qm	9
 修复和祛魔	xiu fu he qu mo	100
 修复和祛魔
-修复和祛魔	xfhqm	9
 切石机	qie shi ji	100
 切石机
-切石机	qsj	9
 锻造台	duan zao tai	100
 锻造台
-锻造台	dzt	9
 潜影盒	qian ying he	100
 潜影盒
-潜影盒	qyh	9
 木桶	mu tong	100
 木桶
 一组	yi zu	100
@@ -384,13 +325,10 @@ TNT 矿车
 快速选择
 制作	zhi zuo	100
 制作
-制作	zz	9
 丢弃	diu qi	100
 丢弃
-丢弃	dq	9
 编辑	bian ji	100
 编辑
-编辑	bj	9
 等级	deng ji	100
 等级
 新	xin	10000000000000
@@ -399,12 +337,10 @@ TNT 矿车
 配方书
 配方	pei fang	100
 配方
-配方	pf	9
 放置	fang zhi	100
 放置
 快速移动	kuai su yi dong	100
 快速移动
-快速移动	ksyd	9
 可合成	ke he cheng	100
 可合成
 移除	yi chu	100
@@ -443,19 +379,16 @@ TNT 矿车
 混沌洞穴
 探洞者的喜悦	tan dong zhe de xi yue	100
 探洞者的喜悦
-探洞者的喜悦	tdzdxy	9
 旱地	han di	100
 旱地
 空岛	kong dao	100
 空岛
-空岛	kd	9
 水世界	shui shi jie	100
 水世界
 预设	yu she	100
 预设
 随机	sui ji	100
 随机
-随机	sj	9
 海平面	hai ping mian	100
 海平面
 散布	san bu	100
@@ -474,73 +407,53 @@ TNT 矿车
 海底神殿
 峡谷	xia gu	100
 峡谷
-峡谷	xg	9
 要塞	yao sai	100
 要塞
-要塞	ys	9
 神殿	shen dian	100
 神殿
-神殿	sd	9
 海底废墟	hai di fei xu	100
 海底废墟
-海底废墟	hdfx	9
 村庄	cun zhuang	100
 村庄
-村庄	cz	9
 湖泊	hu po	100
 湖泊
-湖泊	hp	9
 湖泊密度	hu po mi du	100
 湖泊密度
-湖泊密度	hpmd	9
 超平坦	chao ping tan	100
 超平坦
-超平坦	cpt	9
 奖励箱	jiang li xiang	100
 奖励箱
 奖励箱	xiang zi	7
-奖励箱	jlx	9
 重生	chong sheng	100
 重生
-重生	cs	9
 重生半径	chong sheng ban jing	100
 重生半径
 火焰蔓延	huo yan man yan	100
 火焰蔓延
-火焰蔓延	hymy	9
 掉落物	diao luo wu	100
 掉落物
-掉落物	diao luo	9
-掉落物	dlw	9
 掉落	diao luo	100
 掉落
-掉落	dl	9
 死亡不掉落	si wang bu diao luo	100
 死亡不掉落
-死亡不掉落	swbdl	9
 死亡后保留物品栏	si wang hou bao liu wu pin lan	100
 死亡后保留物品栏
 生命自然恢复	sheng ming zi ran hui fu	100
 生命自然恢复
-生命自然恢复	smzrhf	9
 TNT 爆炸	tnt bao zha	100
 TNT 爆炸
 生物生成	sheng wu sheng cheng	100
 生物生成
-生物生成	swsc	9
 生物破坏	sheng wu po huai	100
 生物破坏
-生物破坏	swph	9
 教育版	jiao yu ban	100
 教育版
 非生物实体掉落	fei sheng wu shi ti diao luo	100
 非生物实体掉落
 实验性	shi yan xing	100
 实验性
-实验性	syx	9
 玩法	wan fa	100
 玩法
-玩法	wf	9
 爬行	pa xing	100
 爬行
 洞穴与山崖	dong xue yu shan ya	100
@@ -548,37 +461,28 @@ TNT 爆炸
 旁观模式	pang guan mo shi	100
 旁观模式
 旁观者模式
-旁观模式	pgms	9
 首选项	shou xuan xiang	100
 首选项
-首选项	sxx	9
 初始地图	chu shi di tu	100
 初始地图
-初始地图	csdt	9
 创建	chuang jian	100
 创建
-创建	cj	9
 删除	shan chu	100
 删除
 冒险	mao xian	100
 冒险
-冒险	mx	9
 持久性	chi jiu xing	100
 持久性
-持久性	cjx	9
 项目	xiang mu	100
 项目
 会话	hui hua	100
 会话
 多人游戏	duo ren you xi	100
 多人游戏
-多人游戏	dryx	9
 地形	di xing	100
 地形
-地形	dx	9
 坐标	zuo biao	100
 坐标
-坐标	zb	9
 随机游戏刻	sui ji you xi ke	100
 随机游戏刻
 随机刻	sui ji ke	100
@@ -593,15 +497,12 @@ TNT 爆炸
 好友
 成员	cheng yuan	100
 成员
-成员	cy	9
 封禁	feng jin	100
 封禁
-封禁	fj	9
 射杀	she sha	100
 射杀
 仙人掌	xian ren zhang	100
 仙人掌
-仙人掌	xrz	9
 淹死	yan si	100
 淹死
 逃离	tao li	100
@@ -624,14 +525,12 @@ TNT 爆炸
 魔法
 浴火焚身	yu huo fen shen	100
 浴火焚身
-浴火焚身	yhfs	9
 踏入	ta ru	100
 踏入
 战斗	zhan dou	100
 战斗
 窒息	zhi xi	100
 窒息
-窒息	zx	9
 熔岩	rong yan	100
 熔岩
 游泳	you yong	100
@@ -646,7 +545,6 @@ TNT 爆炸
 被闪电击中
 被魔法杀死了	bei mo fa sha si le	100
 被魔法杀死了
-被魔法杀死了	bmfssl	9
 发现了地板是熔岩做的	fa xian le di ban shi rong yan zuo de	100
 发现了地板是熔岩做的
 烤得酥脆	kao de su cui	100
@@ -672,14 +570,12 @@ TNT 爆炸
 冻死
 音波尖啸	yin bo jian xiao	100
 音波尖啸
-音波尖啸	ybjx	9
 抹除	mo chu	100
 抹除
 钟乳石	zhong ru shi	100
 钟乳石
 坠落	zhui luo	100
 坠落
-坠落	zl	9
 石笋	shi sun	100
 石笋
 梯子	ti zi	100
@@ -692,7 +588,6 @@ TNT 爆炸
 完结
 极限模式	ji xian mo shi	100
 极限模式
-极限模式	jxms	9
 超极限模式	chao ji xian mo shi	100
 超极限模式
 你死了	ni si le	100
@@ -705,17 +600,14 @@ TNT 爆炸
 分数
 标题屏幕	biao ti pin mu	100
 标题屏幕
-标题屏幕	btpm	9
 试玩版	shi wan ban	100
 试玩版
 锁定世界难度	suo ding shi jie nan du	100
 锁定世界难度
 主世界	zhu shi jie	100
 主世界
-主世界	zsj	9
 下界	xia jie	100
 下界
-下界	xj	9
 末地	mo di	100
 末地
 更衣室	geng yi shi	100
@@ -724,7 +616,6 @@ TNT 爆炸
 皮肤
 无效的会话	wu xiao de hui hua	100
 无效的会话
-无效的会话	wxdhh	9
 身份验证	shen fen yan zheng	100
 身份验证
 缓冲区	huan chong qu	100
@@ -743,7 +634,6 @@ TNT 爆炸
 匹配
 过期	guo qi	100
 过期
-过期的	guo qi de	9
 检查	jian cha	100
 检查
 开发	kai fa	100
@@ -756,7 +646,6 @@ TNT 爆炸
 兼容
 光线追踪	guang xian zhui zong	100
 光线追踪
-光线追踪	rtx	9
 存档	cun dang	100
 存档
 失败	shi bai	100
@@ -767,10 +656,8 @@ TNT 爆炸
 导入
 主机	zhu ji	100
 主机
-主机	zj	9
 设置	she zhi	100
 设置
-设置	sz	9
 力量	li liang	100
 力量
 火矢	huo shi	100
@@ -781,12 +668,10 @@ TNT 爆炸
 冲击
 多重射击	duo chong she ji	100
 多重射击
-多重射击	dcsj	9
 穿透	chuan tou	100
 穿透
 快速装填	kuai su zhuang tian	100
 快速装填
-快速装填	kszt	9
 绑定诅咒	bang ding zu zhou	100
 绑定诅咒
 消失诅咒	xiao shi zu hou	100
@@ -825,14 +710,10 @@ TNT 爆炸
 爆炸保护
 摔落缓冲	shuai luo huan chong	100
 摔落缓冲
-摔落缓冲	slhc	9
 掉落	diao luo	100
-掉落保护	dlbh	9
 掉落保护
 火焰	huo yan	100
-火焰保护	hybh	9
 火焰保护
-弹射物保护	tswbh	9
 弹射物保护
 弹射物	tan she wu	100
 弹射物
@@ -846,7 +727,6 @@ TNT 爆炸
 精准采集
 丝绸之触	si chou zhi chu	100
 丝绸之触
-丝绸之触	jing zhun cai ji	9
 深海探索者	shen hai tan suo zhe	100
 深海探索者
 水下速掘	shui xia su jue	100
@@ -885,7 +765,6 @@ TNT 爆炸
 牛
 苦力怕	ku li pa	100
 苦力怕
-苦力怕	pa xing zhe	9
 爬行者	pa xing zhe	100
 爬行者
 海豚	hai tun	100
@@ -916,7 +795,6 @@ TNT 爆炸
 唤魔者
 唤魔者尖牙	huan mo zhe jian ya	100
 唤魔者尖牙
-唤魔者尖牙	huan mo zhe	9
 末影之眼	mo ying zhi yan	100
 末影之眼
 下落的方块	xia luo de fang kuai	100
@@ -969,7 +847,6 @@ TNT 爆炸
 滞留
 滞留药水	zhi liu yao shui	100
 滞留药水
-滞留药水	zlys	9
 羊驼	yang tuo	100
 羊驼
 行商羊驼	xing shang yang tuo	100
@@ -1011,7 +888,6 @@ TNT 爆炸
 蠹
 蠹虫	du chong	100
 蠹虫
-蠹虫	du yu	9
 骷髅	ku lou	100
 骷髅
 骷髅马	ku lou ma	100
@@ -1079,18 +955,14 @@ TNT 爆炸
 流浪商人
 奸商	jian shang	100
 奸商
-流浪商人	jian shang	9
 女巫	nv wu	100
 女巫
 凋灵	diao ling	100
 凋灵
 凋灵骷髅	diao ling ku lou	100
 凋灵骷髅
-凋灵骷髅	diao ling	9
 凋灵之首	diao ling zhi shou	100
 凋灵之首
-凋灵之首	diao ling tou	9
-凋灵之首	diao ling	9
 狼	lang	0
 经验球	jing yan qiu	100
 经验球
@@ -1124,7 +996,6 @@ TNT 爆炸
 埋藏的宝藏
 掠夺者前哨站	lue duo zhe qian shao zhan	100
 掠夺者前哨站
-掠夺者前哨站	lue duo zhe	9
 堡垒遗迹	bao lei yi ji	100
 堡垒遗迹
 废弃传送门	fei qi chuan song men	100
@@ -1256,7 +1127,6 @@ TNT 爆炸
 半方形	ban fang xing	100
 半方形
 Mojang 徽标	mojang hui biao	100
-Mojang 徽标	mojang	9
 猪鼻	zhu bi	100
 猪鼻
 菱形	ling xing	100
@@ -1843,7 +1713,6 @@ Mojang 徽标	mojang	9
 栅栏
 栅栏门	zha lan men	100
 栅栏门
-栅栏门	zha lan	9
 楼梯	lou ti	100
 楼梯
 玻璃板	bo li ban	100
@@ -1862,7 +1731,6 @@ Mojang 徽标	mojang	9
 羊毛地毯
 混凝土粉末	hun ning tu fen mo	100
 混凝土粉末
-混凝土粉末	hun ning tu	9
 混凝土	hun ning tu	100
 混凝土
 陶瓦	tao wa	100
@@ -1937,7 +1805,6 @@ Mojang 徽标	mojang	9
 珊瑚块
 珊瑚装饰	shan hu zhuang shi	100
 珊瑚装饰
-珊瑚装饰	shan hu	9
 木头	mu tou	100
 木头
 旗帜图案	qi zhi tu an	100
@@ -2313,7 +2180,6 @@ Mojang 徽标	mojang	9
 铁门
 蕨	jue	100
 蕨
-撅	jue	9
 大型蕨	da xing jue	100
 大型蕨
 高草丛	gao cao cong	100
@@ -2336,7 +2202,6 @@ Mojang 徽标	mojang	9
 末地传送门
 末地传送门框架	mo di chuan song men kuang jia	100
 末地传送门框架
-末地传送门框架	mo di chuan song men	9
 耕地	geng di	100
 耕地
 制箭台	zhi jian tai	100
