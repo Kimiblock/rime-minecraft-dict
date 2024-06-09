@@ -4,7 +4,7 @@
 
 ---
 
-一个为 Minecraft 打造的 Rime 拼音词典.
+一个为 Minecraft 打造的 Rime 词典, 为拼音优化.
 
 # 安装与使用
 
